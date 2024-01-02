@@ -30,10 +30,12 @@ CREATE TABLE
 
 CREATE TABLE
   note_deltas (
-    uuid UUID PRIMARY KEY,
+    uuid UUID PRIMARY KEY DEFAULT uuid_generate_v4 (),
     note_uuid UUID,
-    delta TEXT,
-    modified_at TIMESTAMP,
+    delta JSONB NOT NULL,
     version INT,
-    FOREIGN KEY (note_uuid) REFERENCES notes (uuid)
+    FOREIGN KEY (note_uuid) REFERENCES notes (uuid) ON DELETE CASCADE,
+    modified_at TIMESTAMP
+    WITH
+      TIME ZONE DEFAULT CURRENT_TIMESTAMP
   );

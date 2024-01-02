@@ -15,8 +15,9 @@ const get = async (req, res) => {
   try {
     const notes = await db.notes.get({ user_uuid });
 
-    res.json(notes);
+    res.json(notes || []);
   } catch (error) {
+    console.error("Error fetching notes:", error);
     res.status(500).send({ error: error.message });
   }
 };

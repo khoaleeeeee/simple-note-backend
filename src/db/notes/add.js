@@ -2,6 +2,7 @@ import db from "@/db";
 import assert from "assert";
 import { createLogger } from "@/logger";
 
+const logger = createLogger("db.notes.add");
 /**
  * @typedef {Object} notes
  * @property {string} [uuid] - Optional UUID for the note
@@ -12,7 +13,6 @@ import { createLogger } from "@/logger";
 
 const add = async (notes) => {
   assert(notes.user_uuid !== null, "user_uuid is required");
-  assert(notes.title !== null, "title is required");
   assert(notes.content !== null, "content is required");
 
   let queryText;
@@ -36,11 +36,18 @@ const add = async (notes) => {
   }
 
   try {
+    // update title and modified_at only
+    // as content is stored as deltas
     const result = await db.query(queryText, values);
+
+    await db.deltas.add({
+      note_uuid: result.rows[0].uuid,
+      deltas: notes.deltas,
+    });
 
     return result.rows[0];
   } catch (err) {
-    console.log(err);
+    logger.error(err.message);
     throw err;
   }
 };

@@ -20,9 +20,9 @@ const trimmer = (promptText, text) => {
 const autocomplete = async (req, res) => {
   try {
     // throw new Error("This is a test error");
-    const promptText = req.body.promptText;
+    const { topic, promptText } = req.body;
 
-    const prompt = `Complete the sentence '${promptText}' in a meaningful way. Return only the additional part to complete the sentence. Don't include quotation marks`;
+    const prompt = `Given the topic '${topic}', complete the text '${promptText}' in a meaningful way. Return only the additional part. Don't include quotation marks`;
 
     const openai = new OpenAI({
       apiKey: process.env.OPENAI_API_KEY,
@@ -45,6 +45,7 @@ const autocomplete = async (req, res) => {
 
     res.json(trimmer(promptText, response.choices[0].message.content) || "");
   } catch (error) {
+    console.log(error);
     res.json("An error occured from the server");
     return "";
   }
