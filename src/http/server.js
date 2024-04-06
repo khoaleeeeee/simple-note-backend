@@ -2,6 +2,7 @@ import express from "express";
 import { createLogger } from "@/logger.js";
 import { EventEmitter } from "events";
 import routes from "./routes";
+import cors from "cors";
 
 let emitter = new EventEmitter();
 
@@ -13,6 +14,7 @@ const logger = createLogger("src:http:index");
 
 logger.info(`Starting server on port ${PORT}`);
 app = express();
+app.use(cors());
 
 app.use(express.json());
 app.use("/", routes());
@@ -22,9 +24,8 @@ const start = () => {
     server = app.listen(PORT, () => {
       logger.info(`Server listening on port ${PORT}`);
       emitter.emit("ready");
-      resolve();
+      resolve(server);
     });
   });
 };
-
-export default { start, emitter };
+export default { start, emitter, server };

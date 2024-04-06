@@ -40,10 +40,11 @@ const add = async (notes) => {
     // as content is stored as deltas
     const result = await db.query(queryText, values);
 
-    await db.deltas.add({
-      note_uuid: result.rows[0].uuid,
-      deltas: notes.deltas,
-    });
+    if (notes.deltas)
+      await db.deltas.add({
+        note_uuid: result.rows[0].uuid,
+        deltas: notes.deltas,
+      });
 
     return result.rows[0];
   } catch (err) {

@@ -9506,3 +9506,2269 @@
 2024-01-01 22:32:41.664 [INFO] (http:routes) Request: POST /api/openai/autocomplete
 2024-01-01 22:32:45.985 [INFO] (http:routes) Request: POST /api/notes
 2024-01-01 22:32:46.484 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-02-08 19:35:56.842 [INFO] (src:http:index) Starting server on port 8001
+2024-02-08 19:35:56.854 [INFO] (src:index) Http server is ready
+2024-02-08 19:35:56.854 [INFO] (src:http:index) Server listening on port 8001
+2024-02-08 19:35:56.855 [INFO] (src:index) Http server is started
+2024-02-08 19:36:09.306 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-08 19:36:11.488 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:36:59.218 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:36:59.728 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:37:02.670 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:37:04.364 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:37:05.442 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:37:06.396 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:37:07.374 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:37:10.332 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-08 19:37:11.548 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-08 19:37:19.560 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:37:20.084 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:37:20.650 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:37:29.996 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-08 19:37:30.866 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-08 19:37:31.455 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-08 19:37:38.918 [INFO] (http:routes) Request: POST /api/notes
+2024-02-08 19:39:04.652 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-08 19:40:34.167 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-10 21:46:50.635 [INFO] (src:http:index) Starting server on port 8001
+2024-02-10 21:46:50.651 [INFO] (src:index) Http server is ready
+2024-02-10 21:46:50.651 [INFO] (src:http:index) Server listening on port 8001
+2024-02-10 21:46:50.651 [INFO] (src:index) Http server is started
+2024-02-10 21:46:54.918 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-10 21:48:08.172 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:16.538 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:19.768 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:21.229 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:24.582 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:27.017 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:29.550 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:30.333 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:33.813 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:34.818 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:35.490 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:44.917 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:47.896 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:51.451 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:52.154 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:48:57.000 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:00.659 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:01.905 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:09.977 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:15.259 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:19.979 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:23.384 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:25.359 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:26.437 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:27.228 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:28.038 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:49:33.112 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-10 21:49:34.334 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-10 21:49:43.989 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-10 21:49:45.869 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=f39c370a-1af0-4b9e-9b19-23a2205a14ea
+2024-02-10 21:49:45.871 [INFO] (db:notes:remove) deleting notes: 
+2024-02-10 21:49:48.481 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-10 21:49:49.269 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-10 21:49:52.760 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:05.848 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:12.240 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:12.777 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:25.206 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:28.770 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:30.918 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:39.034 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:40.906 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:45.937 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:48.332 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:49.816 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:50.930 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:50:52.706 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:51:01.663 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:51:08.796 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:51:10.669 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:51:11.723 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:51:14.237 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-10 21:51:20.872 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:51:24.255 [INFO] (http:routes) Request: POST /api/notes
+2024-02-10 21:51:29.571 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-10 22:22:57.516 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-11 21:14:55.200 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-11 21:30:06.712 [INFO] (src:http:index) Starting server on port 8001
+2024-02-11 21:30:06.724 [INFO] (src:index) Http server is ready
+2024-02-11 21:30:06.724 [INFO] (src:http:index) Server listening on port 8001
+2024-02-11 21:30:06.724 [INFO] (src:index) Http server is started
+2024-02-12 15:31:33.281 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:31:34.464 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:31:35.097 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:31:35.717 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:38:09.011 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:38:11.299 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:38:12.654 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:38:51.359 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:39:04.443 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:39:09.292 [INFO] (http:routes) Request: GET /api/api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:39:10.959 [INFO] (http:routes) Request: GET /api/api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:39:12.366 [INFO] (http:routes) Request: GET /api/api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:39:13.589 [INFO] (http:routes) Request: GET /api/api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:39:20.941 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:40:00.090 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:40:51.449 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:41:47.695 [INFO] (src:http:index) Starting server on port 8001
+2024-02-12 15:41:47.719 [INFO] (src:index) Http server is ready
+2024-02-12 15:41:47.718 [INFO] (src:http:index) Server listening on port 8001
+2024-02-12 15:41:47.719 [INFO] (src:index) Http server is started
+2024-02-12 15:42:23.822 [INFO] (src:http:index) Starting server on port 8001
+2024-02-12 15:42:23.838 [INFO] (src:index) Http server is ready
+2024-02-12 15:42:23.838 [INFO] (src:http:index) Server listening on port 8001
+2024-02-12 15:42:23.839 [INFO] (src:index) Http server is started
+2024-02-12 15:42:29.368 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:42:39.786 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:42:51.362 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:43:08.096 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:43:16.963 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:43:19.329 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:44:01.741 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:44:04.229 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:44:04.853 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:44:05.311 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-12 15:45:50.594 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-19 19:54:50.148 [INFO] (src:http:index) Starting server on port 8001
+2024-02-19 19:54:50.159 [INFO] (src:index) Http server is ready
+2024-02-19 19:54:50.159 [INFO] (src:http:index) Server listening on port 8001
+2024-02-19 19:54:50.159 [INFO] (src:index) Http server is started
+2024-02-20 11:30:53.608 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 11:30:56.069 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 11:31:44.516 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 11:32:15.976 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=955be4de-d620-46da-be2b-041c3ce09437
+2024-02-20 11:32:15.976 [INFO] (db:notes:remove) deleting notes: 
+2024-02-20 14:03:37.869 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:03:38.495 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:03:38.936 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:03:39.883 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:05:42.796 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:05:43.431 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:05:43.862 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:06:16.338 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:06:16.802 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:06:43.980 [INFO] (src:http:index) Starting server on port 8001
+2024-02-20 14:06:43.992 [INFO] (src:index) Http server is ready
+2024-02-20 14:06:43.992 [INFO] (src:http:index) Server listening on port 8001
+2024-02-20 14:06:43.992 [INFO] (src:index) Http server is started
+2024-02-20 14:06:50.054 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:06:50.983 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:08:33.414 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 14:08:37.245 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:40.733 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:42.851 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:45.570 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:46.180 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:47.771 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:50.850 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:51.685 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:54.854 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:55.818 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:56.565 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:58.160 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:08:59.118 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:09:02.679 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:09:03.334 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:09:07.953 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:09:11.357 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:09:12.208 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:09:18.822 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 14:09:22.279 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 16:48:05.309 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 17:13:52.484 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 17:13:54.312 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 17:13:57.121 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 17:14:13.757 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 17:14:57.027 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:58:03.265 [INFO] (src:http:index) Starting server on port 8001
+2024-02-20 23:58:03.269 [INFO] (src:index) Http server is ready
+2024-02-20 23:58:03.269 [INFO] (src:http:index) Server listening on port 8001
+2024-02-20 23:58:03.269 [INFO] (src:index) Http server is started
+2024-02-20 23:58:37.936 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-20 23:58:46.094 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:58:46.766 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:58:48.527 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:58:51.418 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:58:53.483 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:58:55.658 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:58:58.693 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:02.266 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:04.456 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:07.434 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:10.009 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:11.908 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:14.372 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:16.093 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:17.526 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:23.191 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:23.706 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:26.178 [INFO] (http:routes) Request: POST /api/notes
+2024-02-20 23:59:56.855 [INFO] (http:routes) Request: POST /api/notes
+2024-02-21 00:00:01.540 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-21 00:00:06.212 [INFO] (http:routes) Request: POST /api/notes
+2024-02-21 00:00:10.263 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-21 00:00:11.559 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-21 00:00:18.509 [INFO] (http:routes) Request: POST /api/notes
+2024-02-21 00:00:21.652 [INFO] (http:routes) Request: POST /api/notes
+2024-02-21 00:00:22.575 [INFO] (http:routes) Request: POST /api/notes
+2024-02-21 00:00:24.175 [INFO] (http:routes) Request: POST /api/notes
+2024-02-21 00:00:29.675 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:07:55.303 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:08:02.529 [INFO] (http:routes) Request: POST /api/notes
+2024-02-24 20:08:23.282 [INFO] (http:routes) Request: POST /api/notes
+2024-02-24 20:08:24.115 [INFO] (http:routes) Request: POST /api/notes
+2024-02-24 20:08:24.640 [INFO] (http:routes) Request: POST /api/notes
+2024-02-24 20:08:32.242 [INFO] (http:routes) Request: POST /api/notes
+2024-02-24 20:08:37.291 [INFO] (http:routes) Request: POST /api/notes
+2024-02-24 20:08:40.108 [INFO] (http:routes) Request: POST /api/notes
+2024-02-24 20:08:41.553 [INFO] (http:routes) Request: POST /api/notes
+2024-02-24 20:11:03.117 [INFO] (http:routes) Request: POST /api/notes
+2024-02-24 20:37:55.579 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:37:56.349 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:38:04.509 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:38:06.465 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:40:03.104 [INFO] (http:routes) Request: GET /
+2024-02-24 20:40:25.003 [INFO] (src:http:index) Starting server on port 8001
+2024-02-24 20:40:25.007 [INFO] (src:index) Http server is ready
+2024-02-24 20:40:25.006 [INFO] (src:http:index) Server listening on port 8001
+2024-02-24 20:40:25.007 [INFO] (src:index) Http server is started
+2024-02-24 20:40:42.536 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:40:46.662 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:43:55.520 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:43:57.402 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:43:58.031 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:44:14.414 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:45:01.207 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:46:06.792 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-24 20:47:27.409 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 16:44:21.619 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 16:49:03.136 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 16:49:08.262 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 16:49:10.913 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 16:49:15.584 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 16:52:58.181 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 17:44:19.277 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 20:39:20.866 [INFO] (src:http:index) Starting server on port 8001
+2024-02-26 20:39:20.870 [INFO] (src:index) Http server is ready
+2024-02-26 20:39:20.870 [INFO] (src:http:index) Server listening on port 8001
+2024-02-26 20:39:20.870 [INFO] (src:index) Http server is started
+2024-02-26 20:39:23.471 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 21:21:07.323 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 21:36:57.705 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 21:36:58.281 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 21:36:58.773 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 21:37:03.597 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 22:46:25.799 [INFO] (src:http:index) Starting server on port 8001
+2024-02-26 22:46:25.810 [INFO] (src:index) Http server is ready
+2024-02-26 22:46:25.810 [INFO] (src:http:index) Server listening on port 8001
+2024-02-26 22:46:25.811 [INFO] (src:index) Http server is started
+2024-02-26 22:47:40.501 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 22:47:41.915 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 22:48:57.993 [INFO] (src:http:index) Starting server on port 8001
+2024-02-26 22:48:58.004 [INFO] (src:index) Http server is ready
+2024-02-26 22:48:58.004 [INFO] (src:http:index) Server listening on port 8001
+2024-02-26 22:48:58.005 [INFO] (src:index) Http server is started
+2024-02-26 22:49:00.593 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 22:49:15.198 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 22:49:56.781 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 23:08:34.129 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=3560fc4f-37fb-4b35-bc21-536ed1da2cac
+2024-02-26 23:08:34.131 [INFO] (db:notes:remove) deleting notes: 
+2024-02-26 23:08:47.326 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:08:48.175 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:08:50.836 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:08:54.255 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:08:54.896 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:08:55.775 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:08:56.425 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:08:59.344 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:03.393 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:04.946 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:05.965 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:07.047 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:12.730 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:17.666 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:32.499 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:39.266 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:52.751 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:54.934 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:09:59.844 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:10:03.788 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:10:25.655 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:10:26.162 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:10:46.789 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:10:52.165 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:10:53.699 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:10:58.121 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:02.640 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:03.374 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:04.828 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:11.468 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:20.432 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:21.524 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:22.469 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:23.184 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:28.851 [INFO] (http:routes) Request: POST /api/notes
+2024-02-26 23:11:33.123 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-26 23:11:34.149 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-27 07:02:44.837 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-27 17:07:38.516 [INFO] (src:index) Http server is ready
+2024-02-27 17:07:38.511 [INFO] (src:http:index) Starting server on port 8001
+2024-02-27 17:07:38.516 [INFO] (src:index) Http server is started
+2024-02-27 17:07:38.515 [INFO] (src:http:index) Server listening on port 8001
+2024-02-27 17:10:24.676 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-02-27 17:10:28.667 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=ff2a455c-04e7-4516-b877-ed0e352e7c6c
+2024-02-27 17:10:28.669 [INFO] (db:notes:remove) deleting notes: 
+2024-02-27 17:10:33.707 [INFO] (http:routes) Request: POST /api/notes
+2024-02-27 17:10:38.282 [INFO] (http:routes) Request: POST /api/notes
+2024-02-27 17:10:40.297 [INFO] (http:routes) Request: POST /api/notes
+2024-02-27 17:10:42.173 [INFO] (http:routes) Request: POST /api/notes
+2024-02-27 17:10:43.740 [INFO] (http:routes) Request: POST /api/notes
+2024-02-27 17:11:18.876 [INFO] (http:routes) Request: POST /api/notes
+2024-02-27 17:11:20.093 [INFO] (http:routes) Request: POST /api/notes
+2024-02-27 19:17:01.581 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-04 11:26:30.394 [INFO] (src:http:index) Starting server on port 8001
+2024-03-04 11:26:30.398 [INFO] (src:index) Http server is ready
+2024-03-04 11:26:30.398 [INFO] (src:http:index) Server listening on port 8001
+2024-03-04 11:26:30.398 [INFO] (src:index) Http server is started
+2024-03-04 11:26:41.037 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-04 11:27:12.011 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:19.377 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:20.478 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:22.608 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:33.663 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:34.683 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:36.300 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:38.142 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:40.986 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:44.820 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:46.820 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:27:48.852 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:02.114 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:04.258 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:07.361 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:08.293 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:18.921 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:20.171 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:24.187 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:25.584 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:26.992 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:30.261 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:31.771 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:33.782 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:36.994 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:28:52.881 [INFO] (http:routes) Request: POST /api/notes
+2024-03-04 11:35:28.663 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-04 11:48:29.440 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-04 13:15:54.115 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-04 23:51:05.490 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-05 12:13:08.697 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 12:13:21.707 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 12:13:22.362 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 12:13:22.943 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 12:13:24.432 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 12:13:25.525 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 12:13:26.622 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 12:13:28.588 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 12:13:35.165 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:14.308 [INFO] (src:http:index) Starting server on port 8001
+2024-03-05 15:22:14.313 [INFO] (src:index) Http server is ready
+2024-03-05 15:22:14.312 [INFO] (src:http:index) Server listening on port 8001
+2024-03-05 15:22:14.313 [INFO] (src:index) Http server is started
+2024-03-05 15:22:23.280 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-05 15:22:27.553 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:28.302 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:28.983 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:29.660 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:30.280 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:30.907 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:31.413 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:31.914 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:32.455 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:34.228 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:41.518 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:45.374 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:47.688 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:52.574 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:53.582 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:56.172 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:58.074 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:22:58.915 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:01.378 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:05.199 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:07.368 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:09.221 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:14.139 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:16.117 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:17.043 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:18.603 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:19.472 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:23:21.737 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:42:25.261 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-05 15:42:30.692 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 15:42:33.632 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-05 16:35:25.773 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 16:39:10.698 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 16:39:11.532 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 16:39:12.562 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 16:39:14.604 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 16:39:16.465 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 16:39:18.062 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 16:39:40.602 [INFO] (http:routes) Request: POST /api/notes
+2024-03-05 19:19:58.246 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 11:44:04.640 [INFO] (src:http:index) Starting server on port 8001
+2024-03-06 11:44:04.644 [INFO] (src:index) Http server is ready
+2024-03-06 11:44:04.644 [INFO] (src:http:index) Server listening on port 8001
+2024-03-06 11:44:04.645 [INFO] (src:index) Http server is started
+2024-03-06 11:44:19.182 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 13:21:34.134 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 14:42:08.117 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 14:42:08.753 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 17:26:45.126 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 22:38:25.379 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:38:27.452 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:38:30.436 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:38:34.658 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:38:38.775 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:38:40.784 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:38:42.990 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:38:47.786 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:39:00.686 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:39:03.534 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:39:08.319 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:39:09.576 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:39:20.610 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:39:30.621 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:39:31.289 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:39:37.472 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:39:40.196 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:42:08.098 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:42:09.814 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:42:14.061 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:51:29.831 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:51:30.331 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:52:09.557 [INFO] (src:http:index) Starting server on port 8001
+2024-03-06 22:52:09.562 [INFO] (src:index) Http server is ready
+2024-03-06 22:52:09.561 [INFO] (src:http:index) Server listening on port 8001
+2024-03-06 22:52:09.562 [INFO] (src:index) Http server is started
+2024-03-06 22:52:14.075 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 22:52:20.731 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:23.896 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:24.483 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:24.989 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:52:30.598 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:32.239 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:32.742 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:52:35.896 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:36.393 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:52:42.320 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:45.555 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:46.065 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:46.853 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:49.281 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:49.781 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:52:54.375 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:57.163 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:52:57.668 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:52:59.271 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:53:00.213 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:53:00.711 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:53:07.865 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:53:08.366 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:53:15.390 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:53:17.233 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:54:29.285 [INFO] (src:http:index) Starting server on port 8001
+2024-03-06 22:54:29.299 [INFO] (src:index) Http server is ready
+2024-03-06 22:54:29.299 [INFO] (src:http:index) Server listening on port 8001
+2024-03-06 22:54:29.299 [INFO] (src:index) Http server is started
+2024-03-06 22:54:37.497 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:54:37.987 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:54:39.939 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:54:40.438 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 22:54:49.140 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:54:53.309 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:54:54.177 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:54:54.864 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:54:59.221 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:11.501 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:12.583 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:14.078 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 22:55:21.237 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:24.797 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:31.328 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:32.131 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:34.711 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:40.084 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:44.760 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:45.342 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:52.995 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:54.248 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:56.711 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:55:57.280 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:00.462 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:04.224 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:07.007 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:09.081 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:12.356 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:16.640 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:17.464 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:19.566 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:20.543 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:22.490 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:24.171 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:26.818 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:28.361 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:31.282 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:36.381 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:38.760 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:39.387 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:40.906 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:44.591 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:46.431 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:48.794 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:49.668 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 22:56:59.199 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:00:10.407 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:00:16.692 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:00:17.397 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:05:30.647 [INFO] (src:http:index) Starting server on port 8001
+2024-03-06 23:05:30.651 [INFO] (src:index) Http server is ready
+2024-03-06 23:05:30.651 [INFO] (src:http:index) Server listening on port 8001
+2024-03-06 23:05:30.651 [INFO] (src:index) Http server is started
+2024-03-06 23:13:40.923 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:13:47.871 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:13:49.000 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:13:49.581 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:14:09.141 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:14:44.025 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:16:04.659 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:17:15.870 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:19:25.271 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:19:25.294 [ERROR] (db.notes.add) deltas are required
+2024-03-06 23:20:49.820 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:20:49.837 [ERROR] (db.notes.add) deltas are required
+2024-03-06 23:23:46.825 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:23:46.840 [ERROR] (db.notes.add) deltas are required
+2024-03-06 23:23:47.537 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:23:47.542 [ERROR] (db.notes.add) deltas are required
+2024-03-06 23:24:54.954 [INFO] (src:http:index) Starting server on port 8001
+2024-03-06 23:24:54.969 [INFO] (src:index) Http server is ready
+2024-03-06 23:24:54.969 [INFO] (src:http:index) Server listening on port 8001
+2024-03-06 23:24:54.969 [INFO] (src:index) Http server is started
+2024-03-06 23:25:03.085 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:25:03.102 [ERROR] (db.notes.add) Cannot read properties of undefined (reading 'length')
+2024-03-06 23:25:05.570 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:25:09.242 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:25:09.247 [ERROR] (db.notes.add) Cannot read properties of undefined (reading 'length')
+2024-03-06 23:25:11.005 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:25:12.152 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:25:28.502 [INFO] (src:http:index) Starting server on port 8001
+2024-03-06 23:25:28.516 [INFO] (src:index) Http server is ready
+2024-03-06 23:25:28.516 [INFO] (src:http:index) Server listening on port 8001
+2024-03-06 23:25:28.516 [INFO] (src:index) Http server is started
+2024-03-06 23:27:05.431 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:28:15.365 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:28:26.334 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:28:49.356 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:29:00.324 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:29:28.347 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:30:38.888 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:30:39.804 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:30:41.492 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:32:54.578 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:32:55.443 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:33:00.725 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:33:02.570 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=4c4bdee2-ab10-447d-93ba-db236587e27f
+2024-03-06 23:33:02.571 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:33:04.113 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:34:01.278 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:34:16.833 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:34:28.813 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:34:41.479 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:34:45.559 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:34:50.603 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:34:52.098 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:34:55.896 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:34:56.840 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:34:58.819 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:35:04.658 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:35:07.936 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:37:12.129 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:37:14.597 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:38:07.767 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:38:08.268 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 23:38:09.619 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:38:11.753 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:38:12.254 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 23:38:13.700 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:38:14.200 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 23:38:15.303 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:39:50.018 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:39:54.428 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:39:57.312 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:40:03.183 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:40:03.735 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:40:04.237 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 23:40:04.832 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:40:06.141 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:40:07.833 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:40:09.472 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:40:09.973 [INFO] (http:routes) Request: POST /api/openai/autocomplete
+2024-03-06 23:40:13.239 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:40:45.735 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:41:24.539 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:41:29.543 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:41:33.113 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:41:36.693 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:41:39.115 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:41:39.882 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:41:42.224 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:41:44.145 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=fb6a6c13-0b44-4b8a-b27e-4b059246544a
+2024-03-06 23:41:44.145 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:41:46.208 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:41:46.938 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:44:54.668 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:45:14.148 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:14.385 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:14.606 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:14.778 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:14.938 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:15.076 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:21.205 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=a353275f-5141-4fd7-8e55-288837620e85
+2024-03-06 23:45:21.205 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:45:21.536 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=e784bfa8-dad5-4c2c-b1cf-b8b88e58714f
+2024-03-06 23:45:21.536 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:45:21.818 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=9a16a754-281b-44e2-8ada-525135d8e020
+2024-03-06 23:45:21.819 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:45:22.268 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=c3d8c5ad-82ae-47e3-a35e-6f1f2ae3c5db
+2024-03-06 23:45:22.269 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:45:23.677 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=dc6637f6-32a7-40de-91af-d45d27f23485
+2024-03-06 23:45:23.677 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:45:24.140 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=73615157-cc1e-40d4-be15-16d60e2c08a9
+2024-03-06 23:45:24.140 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:45:26.453 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-06 23:45:46.188 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:46.446 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:46.742 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:47.082 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:47.379 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:47.614 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:45:47.811 [INFO] (http:routes) Request: POST /api/notes
+2024-03-06 23:51:58.636 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=730bd935-db56-4717-94d3-56ee37d3b310
+2024-03-06 23:51:58.636 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:51:58.882 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=82564458-a695-42af-bc00-98ee26e407fd
+2024-03-06 23:51:58.882 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:51:59.150 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=9e79f2f6-adb6-4440-b26e-d8724bab7aea
+2024-03-06 23:51:59.150 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:51:59.482 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=64d2c43d-6a81-4d3c-80b3-bc33b01a339e
+2024-03-06 23:51:59.483 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:51:59.751 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=8c70cf96-8b50-412c-a2fa-97c90b3c9337
+2024-03-06 23:51:59.751 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:52:01.374 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=d854611f-89c9-4cd2-b120-67ae99070138
+2024-03-06 23:52:01.375 [INFO] (db:notes:remove) deleting notes: 
+2024-03-06 23:52:02.347 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=6dbf296b-7c1a-4782-bfba-1587da13e32f
+2024-03-06 23:52:02.347 [INFO] (db:notes:remove) deleting notes: 
+2024-03-07 00:07:42.706 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 00:07:42.710 [INFO] (src:index) Http server is ready
+2024-03-07 00:07:42.710 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 00:07:42.710 [INFO] (src:index) Http server is started
+2024-03-07 00:07:45.692 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:08:07.448 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:09:40.849 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 00:09:40.853 [INFO] (src:index) Http server is ready
+2024-03-07 00:09:40.853 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 00:09:40.854 [INFO] (src:index) Http server is started
+2024-03-07 00:09:44.383 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:09:58.746 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:03.441 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:05.244 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:10:08.373 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:11.012 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:12.844 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:13.705 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:15.346 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:16.071 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:18.879 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:10:24.248 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:28.160 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:30.466 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:34.390 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:37.556 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:39.605 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:10:41.701 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:11:01.478 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:11:04.607 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:11:07.893 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:11:08.602 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:11:10.060 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:11:57.491 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:11:58.602 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:12:01.521 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:03.562 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:04.237 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:07.808 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:09.037 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=9aa5313b-edd1-4bc6-bc69-e7c9b4b7929a
+2024-03-07 00:12:09.038 [INFO] (db:notes:remove) deleting notes: 
+2024-03-07 00:12:11.040 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=812acade-a052-419f-b4df-e39cf6539063
+2024-03-07 00:12:11.040 [INFO] (db:notes:remove) deleting notes: 
+2024-03-07 00:12:13.040 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:12:19.054 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:19.580 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:21.321 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:23.338 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:24.735 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:27.526 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:12:36.745 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:39.439 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:12:40.592 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:12:48.841 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:49.977 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:12:53.342 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:00.243 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:03.128 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:04.963 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:06.297 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:11.661 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:14.614 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:18.478 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:13:36.329 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:40.431 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:41.264 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:44.118 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:46.060 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:13:52.122 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:29.674 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:32.630 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=66b52ef3-66db-4656-b19b-095356996ad9
+2024-03-07 00:22:32.630 [INFO] (db:notes:remove) deleting notes: 
+2024-03-07 00:22:34.523 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:35.227 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:35.506 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:35.697 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:35.869 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:36.041 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:36.221 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:36.387 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:36.545 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:36.697 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:36.884 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:37.053 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:37.237 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:37.923 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:38.803 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:39.403 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:22:39.718 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 00:37:31.548 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:37:34.017 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 00:39:41.478 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 13:57:38.413 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 13:57:56.902 [INFO] (http:routes) Request: DELETE /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6&uuid=2fcc3b51-641b-4a40-9597-117335577111
+2024-03-07 13:57:56.903 [INFO] (db:notes:remove) deleting notes: 
+2024-03-07 13:58:00.321 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 17:49:47.022 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:01:25.623 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:01:26.922 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:01:40.470 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:07:27.527 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 18:07:27.532 [INFO] (src:index) Http server is ready
+2024-03-07 18:07:27.531 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 18:07:27.532 [INFO] (src:index) Http server is started
+2024-03-07 18:07:44.514 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 18:07:44.518 [INFO] (src:index) Http server is ready
+2024-03-07 18:07:44.518 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 18:07:44.518 [INFO] (src:index) Http server is started
+2024-03-07 18:07:46.438 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 18:07:46.442 [INFO] (src:index) Http server is ready
+2024-03-07 18:07:46.442 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 18:07:46.442 [INFO] (src:index) Http server is started
+2024-03-07 18:08:04.769 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 18:08:04.773 [INFO] (src:index) Http server is ready
+2024-03-07 18:08:04.773 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 18:08:04.774 [INFO] (src:index) Http server is started
+2024-03-07 18:08:10.282 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 18:08:10.286 [INFO] (src:index) Http server is ready
+2024-03-07 18:08:10.286 [INFO] (src:index) Http server is started
+2024-03-07 18:08:10.286 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 18:08:13.233 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 18:08:13.237 [INFO] (src:index) Http server is ready
+2024-03-07 18:08:13.237 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 18:08:13.237 [INFO] (src:index) Http server is started
+2024-03-07 18:13:41.208 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:13:48.844 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:15:19.079 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:17:44.108 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:18:10.104 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:18:45.112 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:19:02.081 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:20:11.090 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:20:15.053 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:20:28.062 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:21:06.128 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:21:22.076 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:21:35.079 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:21:53.500 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:21:58.085 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:22:02.972 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:22:23.892 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:22:32.851 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:22:37.342 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:23:03.274 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:24:56.821 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:24:58.391 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:25:00.346 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:25:01.443 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:25:02.398 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:25:13.303 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:25:15.541 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:25:22.193 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:26:51.394 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:27:54.205 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:28:00.986 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:28:01.786 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:28:02.280 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:28:02.728 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:28:03.506 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:28:45.251 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:28:51.621 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:28:54.064 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:29:06.630 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 18:29:16.506 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:02:56.275 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:27:39.993 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:28:16.993 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:28:54.035 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:28:54.039 [INFO] (src:index) Http server is ready
+2024-03-07 20:28:54.039 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:28:54.039 [INFO] (src:index) Http server is started
+2024-03-07 20:28:55.799 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:28:55.803 [INFO] (src:index) Http server is ready
+2024-03-07 20:28:55.803 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:28:55.803 [INFO] (src:index) Http server is started
+2024-03-07 20:29:09.219 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:29:09.223 [INFO] (src:index) Http server is ready
+2024-03-07 20:29:09.223 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:29:09.224 [INFO] (src:index) Http server is started
+2024-03-07 20:29:40.083 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:29:40.087 [INFO] (src:index) Http server is ready
+2024-03-07 20:29:40.087 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:29:40.088 [INFO] (src:index) Http server is started
+2024-03-07 20:30:04.748 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:30:04.753 [INFO] (src:index) Http server is ready
+2024-03-07 20:30:04.753 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:30:04.753 [INFO] (src:index) Http server is started
+2024-03-07 20:30:12.121 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:30:12.125 [INFO] (src:index) Http server is ready
+2024-03-07 20:30:12.125 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:30:12.126 [INFO] (src:index) Http server is started
+2024-03-07 20:30:19.624 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:30:19.628 [INFO] (src:index) Http server is ready
+2024-03-07 20:30:19.628 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:30:19.628 [INFO] (src:index) Http server is started
+2024-03-07 20:30:54.791 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:30:54.795 [INFO] (src:index) Http server is ready
+2024-03-07 20:30:54.795 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:30:54.795 [INFO] (src:index) Http server is started
+2024-03-07 20:30:59.754 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:30:59.759 [INFO] (src:index) Http server is ready
+2024-03-07 20:30:59.759 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:30:59.759 [INFO] (src:index) Http server is started
+2024-03-07 20:32:21.410 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:32:21.416 [INFO] (src:index) Http server is ready
+2024-03-07 20:32:21.416 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:32:21.416 [INFO] (src:index) Http server is started
+2024-03-07 20:33:20.218 [INFO] (src:index) Http server is ready
+2024-03-07 20:33:20.214 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:33:20.218 [INFO] (src:index) Http server is started
+2024-03-07 20:33:20.218 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:34:10.490 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:34:10.494 [INFO] (src:index) Http server is ready
+2024-03-07 20:34:10.494 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:34:10.495 [INFO] (src:index) Http server is started
+2024-03-07 20:34:21.897 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:34:21.901 [INFO] (src:index) Http server is ready
+2024-03-07 20:34:21.901 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:34:21.901 [INFO] (src:index) Http server is started
+2024-03-07 20:34:47.725 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:34:47.739 [INFO] (src:index) Http server is ready
+2024-03-07 20:34:47.739 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:34:47.739 [INFO] (src:index) Http server is started
+2024-03-07 20:35:01.717 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:35:09.429 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:38:57.979 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:38:58.980 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:45:29.505 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:46:46.529 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:49:41.029 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:49:47.018 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCGKScMhFRbYN_PIqc2K8tNaRo6Hrq-n3YkysTdM1ivAET9TTvteSajmJ6wfq11-w
+2024-03-07 20:49:47.021 [ERROR] (http:routes:api) Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:521:19)
+    at notes (/home/khoale/side-projects/note-app/backend/src/http/routes/api/auth/google/index.js:7:9)
+    at Layer.handle [as handle_request] (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:328:13)
+    at /home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:328:13)
+    at /home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:328:13)
+    at /home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:280:10)
+    at /home/khoale/side-projects/note-app/backend/src/http/routes/index.js:12:5
+    at Layer.handle [as handle_request] (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:328:13)
+    at /home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:328:13)
+    at /home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/khoale/side-projects/note-app/backend/node_modules/body-parser/lib/types/json.js:110:7)
+    at Layer.handle [as handle_request] (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:328:13)
+    at /home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:280:10)
+    at cors (/home/khoale/side-projects/note-app/backend/node_modules/cors/lib/index.js:188:7)
+    at /home/khoale/side-projects/note-app/backend/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/khoale/side-projects/note-app/backend/node_modules/cors/lib/index.js:214:15)
+    at /home/khoale/side-projects/note-app/backend/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/khoale/side-projects/note-app/backend/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/khoale/side-projects/note-app/backend/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:328:13)
+    at /home/khoale/side-projects/note-app/backend/node_modules/express/lib/router/index.js:286:9
+2024-03-07 20:49:47.019 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:53:57.881 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:53:57.897 [INFO] (src:index) Http server is ready
+2024-03-07 20:53:57.897 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:53:57.897 [INFO] (src:index) Http server is started
+2024-03-07 20:54:03.314 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:54:03.413 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:54:04.289 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:54:10.587 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCl7WBVoNoAdDk0y0i0PzgaK2MAvEfQP_FnxLVJMFXHlyKkuNKGHB_wujooLXn79g
+2024-03-07 20:54:10.604 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:55:43.263 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 20:55:43.267 [INFO] (src:index) Http server is ready
+2024-03-07 20:55:43.267 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 20:55:43.267 [INFO] (src:index) Http server is started
+2024-03-07 20:55:47.450 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 20:55:53.814 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHC8ofJniTG0F7gNTCd7-9uRF1RFGzJYu9ea67cBqxt0cAU6o4vBAOSYsNo-eB1Opg
+2024-03-07 20:55:53.866 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:03:55.511 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:03:55.526 [INFO] (src:index) Http server is ready
+2024-03-07 21:03:55.526 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:03:55.527 [INFO] (src:index) Http server is started
+2024-03-07 21:04:08.503 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:04:08.516 [INFO] (src:index) Http server is ready
+2024-03-07 21:04:08.516 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:04:08.516 [INFO] (src:index) Http server is started
+2024-03-07 21:04:16.881 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:04:21.635 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCrJzWaoJVZxmVnmZ9tVJYEZDZnWnA6CGdyG0X5rCQmudQ_sM2SFT1U8wtZKEKrMg
+2024-03-07 21:04:21.690 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:05:20.026 [INFO] (src:index) Http server is ready
+2024-03-07 21:05:20.009 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:05:20.026 [INFO] (src:index) Http server is started
+2024-03-07 21:05:20.026 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:05:26.155 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:05:26.170 [INFO] (src:index) Http server is ready
+2024-03-07 21:05:26.170 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:05:26.171 [INFO] (src:index) Http server is started
+2024-03-07 21:05:34.124 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:05:38.828 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCSSymHgKTGXlCmi_YjG_dftnA8r32KsBfSEesR9QA9uJ4KeWgbEOerqNQHKkoGbg
+2024-03-07 21:05:38.882 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:07:53.566 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:07:53.581 [INFO] (src:index) Http server is ready
+2024-03-07 21:07:53.581 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:07:53.581 [INFO] (src:index) Http server is started
+2024-03-07 21:08:10.123 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:08:14.509 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHATnDcefoV_gYenWbS6QZ5sMdOys2TSVQywvNWKX0crSzhToaPEk6Hugftw_YsTZA
+2024-03-07 21:08:14.564 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:08:34.275 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:08:34.292 [INFO] (src:index) Http server is ready
+2024-03-07 21:08:34.292 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:08:34.293 [INFO] (src:index) Http server is started
+2024-03-07 21:08:45.499 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:08:45.514 [INFO] (src:index) Http server is ready
+2024-03-07 21:08:45.514 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:08:45.514 [INFO] (src:index) Http server is started
+2024-03-07 21:09:13.242 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:09:13.258 [INFO] (src:index) Http server is ready
+2024-03-07 21:09:13.258 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:09:13.259 [INFO] (src:index) Http server is started
+2024-03-07 21:09:26.876 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:09:26.892 [INFO] (src:index) Http server is ready
+2024-03-07 21:09:26.892 [INFO] (src:index) Http server is started
+2024-03-07 21:09:26.891 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:09:28.208 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:09:28.227 [INFO] (src:index) Http server is ready
+2024-03-07 21:09:28.227 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:09:28.227 [INFO] (src:index) Http server is started
+2024-03-07 21:09:41.344 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:09:46.050 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHChxuRdcBWR2q4PswuxbchwJiPRV1OVYPLcLw8PuAhIWA5Lt-ExJMvXrnh2gOC24Q
+2024-03-07 21:09:46.105 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:10:18.831 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:10:18.846 [INFO] (src:index) Http server is ready
+2024-03-07 21:10:18.845 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:10:18.846 [INFO] (src:index) Http server is started
+2024-03-07 21:10:52.663 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:10:52.677 [INFO] (src:index) Http server is ready
+2024-03-07 21:10:52.677 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:10:52.678 [INFO] (src:index) Http server is started
+2024-03-07 21:10:54.324 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:10:54.341 [INFO] (src:index) Http server is ready
+2024-03-07 21:10:54.341 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:10:54.341 [INFO] (src:index) Http server is started
+2024-03-07 21:10:55.897 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:10:55.912 [INFO] (src:index) Http server is ready
+2024-03-07 21:10:55.912 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:10:55.913 [INFO] (src:index) Http server is started
+2024-03-07 21:11:07.656 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:11:07.671 [INFO] (src:index) Http server is ready
+2024-03-07 21:11:07.670 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:11:07.671 [INFO] (src:index) Http server is started
+2024-03-07 21:11:12.309 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:11:15.967 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBhxH5OdGbIJuhM4pEvkXbEmMKXEBGNcTOK0z7-P7Sksh24wlTGCHM3bmvUP9L1JQ
+2024-03-07 21:11:16.023 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:11:31.535 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:11:31.551 [INFO] (src:index) Http server is ready
+2024-03-07 21:11:31.551 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:11:31.551 [INFO] (src:index) Http server is started
+2024-03-07 21:11:36.317 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:11:36.334 [INFO] (src:index) Http server is ready
+2024-03-07 21:11:36.334 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:11:36.334 [INFO] (src:index) Http server is started
+2024-03-07 21:11:40.094 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:11:40.111 [INFO] (src:index) Http server is ready
+2024-03-07 21:11:40.110 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:11:40.111 [INFO] (src:index) Http server is started
+2024-03-07 21:11:41.344 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:11:41.359 [INFO] (src:index) Http server is ready
+2024-03-07 21:11:41.358 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:11:41.359 [INFO] (src:index) Http server is started
+2024-03-07 21:11:55.443 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:11:55.459 [INFO] (src:index) Http server is ready
+2024-03-07 21:11:55.459 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:11:55.459 [INFO] (src:index) Http server is started
+2024-03-07 21:12:01.099 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:12:01.114 [INFO] (src:index) Http server is ready
+2024-03-07 21:12:01.114 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:12:01.115 [INFO] (src:index) Http server is started
+2024-03-07 21:15:01.119 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 21:15:01.134 [INFO] (src:index) Http server is ready
+2024-03-07 21:15:01.134 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 21:15:01.134 [INFO] (src:index) Http server is started
+2024-03-07 21:52:27.984 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBhxH5OdGbIJuhM4pEvkXbEmMKXEBGNcTOK0z7-P7Sksh24wlTGCHM3bmvUP9L1JQ
+2024-03-07 21:52:28.057 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 21:57:38.301 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:04:07.677 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:04:07.699 [INFO] (src:index) Http server is ready
+2024-03-07 22:04:07.699 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:04:07.699 [INFO] (src:index) Http server is started
+2024-03-07 22:04:48.249 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:04:50.589 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:07:58.776 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:07:58.791 [INFO] (src:index) Http server is ready
+2024-03-07 22:07:58.791 [INFO] (src:index) Http server is started
+2024-03-07 22:07:58.791 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:08:06.241 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:08:06.257 [INFO] (src:index) Http server is ready
+2024-03-07 22:08:06.256 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:08:06.257 [INFO] (src:index) Http server is started
+2024-03-07 22:08:17.229 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:08:17.244 [INFO] (src:index) Http server is ready
+2024-03-07 22:08:17.244 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:08:17.244 [INFO] (src:index) Http server is started
+2024-03-07 22:08:28.886 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:08:28.902 [INFO] (src:index) Http server is ready
+2024-03-07 22:08:28.902 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:08:28.903 [INFO] (src:index) Http server is started
+2024-03-07 22:08:48.584 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:08:48.599 [INFO] (src:index) Http server is ready
+2024-03-07 22:08:48.599 [INFO] (src:index) Http server is started
+2024-03-07 22:08:48.598 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:08:58.424 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:08:58.439 [INFO] (src:index) Http server is ready
+2024-03-07 22:08:58.439 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:08:58.439 [INFO] (src:index) Http server is started
+2024-03-07 22:09:04.426 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:09:04.440 [INFO] (src:index) Http server is ready
+2024-03-07 22:09:04.440 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:09:04.441 [INFO] (src:index) Http server is started
+2024-03-07 22:09:06.163 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:09:06.178 [INFO] (src:index) Http server is ready
+2024-03-07 22:09:06.177 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:09:06.178 [INFO] (src:index) Http server is started
+2024-03-07 22:09:08.867 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:09:08.904 [INFO] (src:index) Http server is ready
+2024-03-07 22:09:08.904 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:09:08.905 [INFO] (src:index) Http server is started
+2024-03-07 22:09:44.324 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:09:44.339 [INFO] (src:index) Http server is ready
+2024-03-07 22:09:44.339 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:09:44.339 [INFO] (src:index) Http server is started
+2024-03-07 22:09:51.419 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:09:51.434 [INFO] (src:index) Http server is ready
+2024-03-07 22:09:51.433 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:09:51.434 [INFO] (src:index) Http server is started
+2024-03-07 22:09:59.190 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:09:59.204 [INFO] (src:index) Http server is ready
+2024-03-07 22:09:59.204 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:09:59.204 [INFO] (src:index) Http server is started
+2024-03-07 22:10:23.508 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:10:23.528 [INFO] (src:index) Http server is ready
+2024-03-07 22:10:23.527 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:10:23.528 [INFO] (src:index) Http server is started
+2024-03-07 22:10:26.932 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:10:26.948 [INFO] (src:index) Http server is ready
+2024-03-07 22:10:26.948 [INFO] (src:index) Http server is started
+2024-03-07 22:10:26.948 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:10:34.539 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:10:34.554 [INFO] (src:index) Http server is ready
+2024-03-07 22:10:34.554 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:10:34.555 [INFO] (src:index) Http server is started
+2024-03-07 22:10:35.978 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:10:35.992 [INFO] (src:index) Http server is ready
+2024-03-07 22:10:35.992 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:10:35.993 [INFO] (src:index) Http server is started
+2024-03-07 22:10:51.235 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:10:51.251 [INFO] (src:index) Http server is ready
+2024-03-07 22:10:51.250 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:10:51.251 [INFO] (src:index) Http server is started
+2024-03-07 22:10:52.692 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:10:52.707 [INFO] (src:index) Http server is ready
+2024-03-07 22:10:52.706 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:10:52.707 [INFO] (src:index) Http server is started
+2024-03-07 22:11:47.062 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:11:47.074 [INFO] (src:index) Http server is ready
+2024-03-07 22:11:47.074 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:11:47.074 [INFO] (src:index) Http server is started
+2024-03-07 22:12:06.621 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:12:06.635 [INFO] (src:index) Http server is ready
+2024-03-07 22:12:06.635 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:12:06.635 [INFO] (src:index) Http server is started
+2024-03-07 22:13:14.803 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:13:14.818 [INFO] (src:index) Http server is ready
+2024-03-07 22:13:14.818 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:13:14.818 [INFO] (src:index) Http server is started
+2024-03-07 22:13:29.231 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:13:29.246 [INFO] (src:index) Http server is ready
+2024-03-07 22:13:29.246 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:13:29.246 [INFO] (src:index) Http server is started
+2024-03-07 22:14:28.238 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:14:28.253 [INFO] (src:index) Http server is ready
+2024-03-07 22:14:28.252 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:14:28.253 [INFO] (src:index) Http server is started
+2024-03-07 22:14:39.384 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:14:44.069 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCXRPIUGv51V9QxVtaIWfZrShPzq9F13AELRMoOC4fqW_qO02vuDuViWaQ0Kms_XA
+2024-03-07 22:14:44.086 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:15:49.665 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:15:49.679 [INFO] (src:index) Http server is ready
+2024-03-07 22:15:49.678 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:15:49.679 [INFO] (src:index) Http server is started
+2024-03-07 22:15:57.282 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:15:57.295 [INFO] (src:index) Http server is ready
+2024-03-07 22:15:57.295 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:15:57.296 [INFO] (src:index) Http server is started
+2024-03-07 22:16:11.001 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:16:16.471 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHDKReo1f-NmUWqOuAVAMktkzZsx2VIqlaL4LLvnbcaMEbR8bZVOnaQ3kKEqgjAbyA
+2024-03-07 22:16:16.481 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:16:37.240 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:16:37.253 [INFO] (src:index) Http server is ready
+2024-03-07 22:16:37.252 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:16:37.253 [INFO] (src:index) Http server is started
+2024-03-07 22:17:06.601 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:17:06.618 [INFO] (src:index) Http server is ready
+2024-03-07 22:17:06.617 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:17:06.618 [INFO] (src:index) Http server is started
+2024-03-07 22:18:21.225 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:18:21.241 [INFO] (src:index) Http server is ready
+2024-03-07 22:18:21.241 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:18:21.241 [INFO] (src:index) Http server is started
+2024-03-07 22:18:32.257 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:18:36.638 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHDLUgw4SYAP_FyUyzjfHlNElGqoByCnqIE4uFRNpR9VD2q-Ik1y5nPYLLHxmiRr2g
+2024-03-07 22:18:36.694 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:19:34.921 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:19:34.935 [INFO] (src:index) Http server is ready
+2024-03-07 22:19:34.935 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:19:34.935 [INFO] (src:index) Http server is started
+2024-03-07 22:19:45.511 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:19:51.497 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHDWdFSziWap6u_2SLOksuJytUOl_xyQd8sBEq4D2vfdAAAq42pLLD-w1cI46j-PiQ
+2024-03-07 22:19:51.554 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:20:34.278 [INFO] (src:index) Http server is ready
+2024-03-07 22:20:34.264 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:20:34.279 [INFO] (src:index) Http server is started
+2024-03-07 22:20:34.278 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:20:41.795 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:20:45.503 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHAwDi3zHejOxdeEMKqAiLjh2FJ4dvxwSDO-WbJNqkH7yHqt4uPyAbZSoda4OYw66w
+2024-03-07 22:20:45.566 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:21:17.835 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:21:17.851 [INFO] (src:index) Http server is ready
+2024-03-07 22:21:17.851 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:21:17.851 [INFO] (src:index) Http server is started
+2024-03-07 22:21:26.696 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:21:26.711 [INFO] (src:index) Http server is ready
+2024-03-07 22:21:26.711 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:21:26.711 [INFO] (src:index) Http server is started
+2024-03-07 22:21:37.340 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:21:40.877 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBEIRNxyxC98kwUtlteajMYxRdPeuMs-AEU0eDn-aUOKe8BT-cO3LyH_ukYdKEAQw
+2024-03-07 22:21:40.935 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:22:13.468 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:22:13.482 [INFO] (src:index) Http server is ready
+2024-03-07 22:22:13.481 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:22:13.482 [INFO] (src:index) Http server is started
+2024-03-07 22:22:24.723 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:22:24.739 [INFO] (src:index) Http server is ready
+2024-03-07 22:22:24.738 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:22:24.739 [INFO] (src:index) Http server is started
+2024-03-07 22:22:34.364 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:22:34.382 [INFO] (src:index) Http server is ready
+2024-03-07 22:22:34.382 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:22:34.383 [INFO] (src:index) Http server is started
+2024-03-07 22:22:37.688 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:22:37.709 [INFO] (src:index) Http server is ready
+2024-03-07 22:22:37.709 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:22:37.710 [INFO] (src:index) Http server is started
+2024-03-07 22:22:43.892 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:22:47.393 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHB08UzLiHi3ay5kuNrgflFISoGfVN4bG8OaYkhygdfrjM-f8WWLsp9LnlumswIBgQ
+2024-03-07 22:22:47.454 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:23:24.149 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:23:24.165 [INFO] (src:index) Http server is ready
+2024-03-07 22:23:24.164 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:23:24.165 [INFO] (src:index) Http server is started
+2024-03-07 22:23:46.417 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:23:46.432 [INFO] (src:index) Http server is ready
+2024-03-07 22:23:46.432 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:23:46.432 [INFO] (src:index) Http server is started
+2024-03-07 22:24:05.523 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:24:05.538 [INFO] (src:index) Http server is ready
+2024-03-07 22:24:05.538 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:24:05.538 [INFO] (src:index) Http server is started
+2024-03-07 22:24:26.136 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:24:26.155 [INFO] (src:index) Http server is ready
+2024-03-07 22:24:26.154 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:24:26.155 [INFO] (src:index) Http server is started
+2024-03-07 22:24:52.650 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:24:56.347 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBZqdV-ll2oWMphNhTqo7DoSw6KujVEClp15qp5L0k3JOGuM7hReP8djwLOXV4NKg
+2024-03-07 22:24:56.401 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:27:14.367 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBZqdV-ll2oWMphNhTqo7DoSw6KujVEClp15qp5L0k3JOGuM7hReP8djwLOXV4NKg
+2024-03-07 22:27:14.372 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:34:14.859 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:34:14.874 [INFO] (src:index) Http server is ready
+2024-03-07 22:34:14.874 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:34:14.874 [INFO] (src:index) Http server is started
+2024-03-07 22:34:52.297 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:34:52.314 [INFO] (src:index) Http server is ready
+2024-03-07 22:34:52.314 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:34:52.314 [INFO] (src:index) Http server is started
+2024-03-07 22:35:45.542 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:35:45.557 [INFO] (src:index) Http server is ready
+2024-03-07 22:35:45.557 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:35:45.557 [INFO] (src:index) Http server is started
+2024-03-07 22:35:52.297 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:35:52.312 [INFO] (src:index) Http server is ready
+2024-03-07 22:35:52.312 [INFO] (src:index) Http server is started
+2024-03-07 22:35:52.312 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:35:53.635 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:35:53.650 [INFO] (src:index) Http server is ready
+2024-03-07 22:35:53.650 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:35:53.650 [INFO] (src:index) Http server is started
+2024-03-07 22:36:11.367 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:36:11.389 [INFO] (src:index) Http server is ready
+2024-03-07 22:36:11.389 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:36:11.390 [INFO] (src:index) Http server is started
+2024-03-07 22:37:20.001 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBZqdV-ll2oWMphNhTqo7DoSw6KujVEClp15qp5L0k3JOGuM7hReP8djwLOXV4NKg
+2024-03-07 22:39:26.035 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:39:32.402 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:39:42.113 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:40:09.563 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:40:25.553 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:40:37.812 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:40:39.298 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:40:46.442 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:43:38.294 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:43:46.537 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHAGiXyH-JiMsrgi3eJwveWMl2VBHRs_FyOrz3icHASo4zt9lkPSdKWa9MYZSQ8-0A
+2024-03-07 22:43:46.541 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:43:53.564 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHAGiXyH-JiMsrgi3eJwveWMl2VBHRs_FyOrz3icHASo4zt9lkPSdKWa9MYZSQ8-0A
+2024-03-07 22:43:53.722 [INFO] (http:routes) Request: GET /favicon.ico
+2024-03-07 22:44:28.433 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:44:28.451 [INFO] (src:index) Http server is ready
+2024-03-07 22:44:28.450 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:44:28.451 [INFO] (src:index) Http server is started
+2024-03-07 22:45:04.954 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:45:04.968 [INFO] (src:index) Http server is ready
+2024-03-07 22:45:04.968 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:45:04.968 [INFO] (src:index) Http server is started
+2024-03-07 22:45:10.851 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:45:10.868 [INFO] (src:index) Http server is ready
+2024-03-07 22:45:10.867 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:45:10.868 [INFO] (src:index) Http server is started
+2024-03-07 22:45:46.765 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:45:46.779 [INFO] (src:index) Http server is ready
+2024-03-07 22:45:46.779 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:45:46.780 [INFO] (src:index) Http server is started
+2024-03-07 22:45:53.400 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:45:53.415 [INFO] (src:index) Http server is ready
+2024-03-07 22:45:53.415 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:45:53.416 [INFO] (src:index) Http server is started
+2024-03-07 22:46:01.428 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:46:01.443 [INFO] (src:index) Http server is ready
+2024-03-07 22:46:01.443 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:46:01.443 [INFO] (src:index) Http server is started
+2024-03-07 22:46:11.071 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:46:11.086 [INFO] (src:index) Http server is ready
+2024-03-07 22:46:11.086 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:46:11.086 [INFO] (src:index) Http server is started
+2024-03-07 22:46:18.993 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:46:24.286 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCQzRTxKTBoCTJoAjG-9t1N5rRDxhIjsLR1nGiERYtWku6tvCeHbeObCct4BXsanA
+2024-03-07 22:46:24.344 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:47:09.619 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:47:09.635 [INFO] (src:index) Http server is ready
+2024-03-07 22:47:09.634 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:47:09.635 [INFO] (src:index) Http server is started
+2024-03-07 22:47:20.544 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:47:20.560 [INFO] (src:index) Http server is ready
+2024-03-07 22:47:20.560 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:47:20.560 [INFO] (src:index) Http server is started
+2024-03-07 22:47:26.911 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:47:26.927 [INFO] (src:index) Http server is ready
+2024-03-07 22:47:26.927 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:47:26.927 [INFO] (src:index) Http server is started
+2024-03-07 22:48:43.270 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:48:43.284 [INFO] (src:index) Http server is ready
+2024-03-07 22:48:43.284 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:48:43.284 [INFO] (src:index) Http server is started
+2024-03-07 22:48:43.985 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:48:44.001 [INFO] (src:index) Http server is ready
+2024-03-07 22:48:44.001 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:48:44.002 [INFO] (src:index) Http server is started
+2024-03-07 22:48:46.291 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:48:46.307 [INFO] (src:index) Http server is ready
+2024-03-07 22:48:46.306 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:48:46.307 [INFO] (src:index) Http server is started
+2024-03-07 22:49:00.177 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:49:44.030 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBCfg_0tDetns_D_yNcbASDKzwu2ceKxGsoW43HWwQdyHaYOaWvBx8FzfTdwqfK1A
+2024-03-07 22:49:44.089 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:50:07.287 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:50:07.302 [INFO] (src:index) Http server is ready
+2024-03-07 22:50:07.302 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:50:07.302 [INFO] (src:index) Http server is started
+2024-03-07 22:50:11.673 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:50:11.688 [INFO] (src:index) Http server is ready
+2024-03-07 22:50:11.688 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:50:11.688 [INFO] (src:index) Http server is started
+2024-03-07 22:50:19.425 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:50:24.824 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBoYdjM6VzVWsGxiDpLhhLUafwPUgTy86NmMyPtZmTh0mBoauU28_FsdE6NPY8FPw
+2024-03-07 22:50:24.880 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:50:50.514 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 22:50:50.531 [INFO] (src:index) Http server is ready
+2024-03-07 22:50:50.530 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 22:50:50.531 [INFO] (src:index) Http server is started
+2024-03-07 22:50:56.367 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:51:02.207 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBaNeis5ERhCz_ECnFwUHV6w8D1JwXNs2rrM5eiI1-w3-mEmzBUE2BVJtTtpvFE0w
+2024-03-07 22:51:02.267 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:52:13.319 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:52:21.983 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHD6l1s_nPlC4XLnY3AV1aeGqFkziRAH5NzpDjGu5vrahCbSKVOAq3Y9zrNybEeqxA
+2024-03-07 22:52:21.989 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:52:27.798 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 22:52:31.320 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHDSzRrZlh8OmueCx3IyTMHlKHOBMwUc1Y9dx9RHTqe7bozWmCFwOftV7TuZspeykg
+2024-03-07 22:52:31.324 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 23:01:01.538 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 23:01:17.992 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 23:01:22.229 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBmHznramkZO2aZeaBztaLxDCTNYAFTJHaNt_PMkdSLaKoOw_CeF9cvz_ZCas28wg
+2024-03-07 23:01:22.234 [INFO] (http:routes) Request: GET /api/notes?user_uuid=e370b10c-91f7-4710-9e6d-a83eac251de6
+2024-03-07 23:02:41.066 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 23:02:41.070 [INFO] (src:index) Http server is ready
+2024-03-07 23:02:41.070 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 23:02:41.070 [INFO] (src:index) Http server is started
+2024-03-07 23:06:35.640 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:09:28.806 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:09:33.297 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:11:14.291 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:11:21.088 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:11:55.467 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCzgy-PoaP4yXCIM5Z0v14JbB-Q5N3c7_FfL-WrFYS5yxIhRbmoH6RXcltGr2uWcg
+2024-03-07 23:12:04.987 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:17:24.158 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:20:06.296 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBwitc1GFEpANZfhb0wNN_NMTpy_GnEbUnyNLiE2E7KoGj1HDpwFBN1eWbhte-nLg
+2024-03-07 23:20:06.603 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:25:32.474 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBPcxGFPMraZRzejCGM2CT2dhaO7KfZK5mz9OlI0vQXQjUK_FIbtZcrGsy_dwRVhQ
+2024-03-07 23:25:32.865 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:25:36.197 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 23:25:40.572 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 23:25:45.806 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 23:25:47.890 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 23:25:51.760 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 23:26:07.722 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:26:08.685 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:26:10.194 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:26:10.675 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:27:11.339 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:27:12.030 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:27:12.544 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:27:27.113 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHDFCEnKwpQul2mBphKNbSehDL55dwi5Lo_jMG_Igvcat4QobFw7viR2ILkw8O8qhQ
+2024-03-07 23:28:29.806 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 23:28:29.820 [INFO] (src:index) Http server is ready
+2024-03-07 23:28:29.820 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 23:28:29.821 [INFO] (src:index) Http server is started
+2024-03-07 23:29:12.013 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 23:29:12.028 [INFO] (src:index) Http server is ready
+2024-03-07 23:29:12.028 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 23:29:12.029 [INFO] (src:index) Http server is started
+2024-03-07 23:29:32.301 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHDDfF3_vKASBQfeS5LHtwcm03983JmDvFOFdXq36RbaWP-K1R6sMKC4-nCA5eGJmg
+2024-03-07 23:29:32.674 [INFO] (http:routes) Request: GET /api/notes?user_uuid=b5c58a3b-6630-447a-8eaa-febb365cfb6e
+2024-03-07 23:29:40.353 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHDYJdFJmxzLp96RwXtxrlMa8af2DxvlPSBA8Z6n2LQcaYiIfBDYVCf7EvPQlAzo3A
+2024-03-07 23:29:40.634 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:30:17.319 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHC5L_xub1UzxXS7RoVSsR1xy36WwFsFbuOIl7UfmJXiNVi4YQrLsW1pM4Z8IUQjpg
+2024-03-07 23:31:57.039 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 23:31:57.054 [INFO] (src:index) Http server is ready
+2024-03-07 23:31:57.054 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 23:31:57.054 [INFO] (src:index) Http server is started
+2024-03-07 23:32:18.366 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHC7e7NsU8ruzGdCIiTA187AuYcwSx76trpaMpm-ELYLToyc01BKGqIvv14x-CqeIQ
+2024-03-07 23:32:33.518 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 23:32:33.534 [INFO] (src:index) Http server is ready
+2024-03-07 23:32:33.534 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 23:32:33.534 [INFO] (src:index) Http server is started
+2024-03-07 23:32:37.340 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 23:32:37.356 [INFO] (src:index) Http server is ready
+2024-03-07 23:32:37.356 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 23:32:37.356 [INFO] (src:index) Http server is started
+2024-03-07 23:32:39.320 [INFO] (src:http:index) Starting server on port 8001
+2024-03-07 23:32:39.336 [INFO] (src:index) Http server is ready
+2024-03-07 23:32:39.335 [INFO] (src:http:index) Server listening on port 8001
+2024-03-07 23:32:39.336 [INFO] (src:index) Http server is started
+2024-03-07 23:32:56.766 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHDRK40P9HClSexoEm1kqOM-kAOx8d27Li-j7d1Aa8vuJE97AZcwGjyogukJTOVqzA
+2024-03-07 23:32:57.168 [INFO] (http:routes) Request: GET /api/notes?user_uuid=94f597b9-44e4-4bc0-9973-6cae781430fe
+2024-03-07 23:33:10.090 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHARM1jOFNoIXAjNXrloZsqnzhMZIFoL4du8Et7dZlJmcnlj6Ma75UJ6gkAe_hzzig
+2024-03-07 23:33:10.376 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:33:33.697 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHB70KH51fuZMkLiC8MwC3_dtPOzhckKunAcmWkEnw0LCFXrW1VrKpihQbXrSzLdGQ
+2024-03-07 23:33:34.134 [INFO] (http:routes) Request: GET /api/notes?user_uuid=94f597b9-44e4-4bc0-9973-6cae781430fe
+2024-03-07 23:33:36.214 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 23:33:41.746 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 23:33:51.498 [INFO] (http:routes) Request: POST /api/notes
+2024-03-07 23:34:04.029 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCwTV2nisz1eEj5MmXBhsnw-cGZfXmVkYYMC-vX0V7BbQXrYBc0woz3Ikums2oqlQ
+2024-03-07 23:34:04.329 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:34:12.172 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCf1avyQdbdU1PDuXZZu6kRjNgAfeVv-ptvahPluQGdK-g-o5Xt0O7AQYFhfxJoJw
+2024-03-07 23:34:12.457 [INFO] (http:routes) Request: GET /api/notes?user_uuid=94f597b9-44e4-4bc0-9973-6cae781430fe
+2024-03-07 23:37:44.688 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBYU7qa9uhinIypPk5vo2RETYqOAGdBBT0RfmUZBExADkYBtUsllPqsCKdw6z0zgQ
+2024-03-07 23:37:45.012 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:42:15.463 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHA_LtGr26HA3MM2UJPH3oIvtze79kBd4qbaTeENsXcqPV1SQbDtAUsGoGA9SKvRkA
+2024-03-07 23:42:15.856 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHA_LtGr26HA3MM2UJPH3oIvtze79kBd4qbaTeENsXcqPV1SQbDtAUsGoGA9SKvRkA
+2024-03-07 23:44:17.198 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHA_LtGr26HA3MM2UJPH3oIvtze79kBd4qbaTeENsXcqPV1SQbDtAUsGoGA9SKvRkA
+2024-03-07 23:45:13.126 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:45:25.719 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:46:10.504 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHAmQXbhrjviuXpRD7dUtefN-ZE0aZl8KHzO70p7l_QXlfHp-bCyTPgQVQLwEo3COQ
+2024-03-07 23:46:10.911 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:46:19.398 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHCXZATTL8NMmO0A875-PWfJaaU3hGzN_CY_FVtcg7OdB9j_oPYsdufSBa7JI1-pag
+2024-03-07 23:46:19.709 [INFO] (http:routes) Request: GET /api/notes?user_uuid=94f597b9-44e4-4bc0-9973-6cae781430fe
+2024-03-07 23:46:29.895 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHAqQgA6NF7S_TIeWnwneBeYxiZTO-udxPXCkVAjU5C2M0JkMxgMG6pN8WBwD84fkw
+2024-03-07 23:46:30.261 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:46:55.323 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:47:06.840 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:47:14.732 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-07 23:49:19.368 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHBbOVxMeZqev0bEybQ1pluf4G2wCGMxlPbO4pXSbEGeEXwsnmz1F2VidrxlCmdcjQ
+2024-03-07 23:49:19.862 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-08 10:46:52.946 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHAAtEX1BH1SlCvfn46cTu6DjljXIrHaq-7vMnPYBNdpKUzWWNQcSvVg6etoL8nvuQ
+2024-03-08 10:46:53.295 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-08 10:50:01.337 [INFO] (http:routes) Request: POST /api/notes
+2024-03-08 17:48:02.540 [INFO] (http:routes) Request: POST /api/notes
+2024-03-08 17:48:04.908 [INFO] (http:routes) Request: POST /api/notes
+2024-03-08 17:48:05.986 [INFO] (http:routes) Request: POST /api/notes
+2024-03-08 17:48:09.688 [INFO] (http:routes) Request: POST /api/notes
+2024-03-08 17:48:11.943 [INFO] (http:routes) Request: POST /api/notes
+2024-03-08 17:48:14.399 [INFO] (http:routes) Request: POST /api/notes
+2024-03-08 17:48:19.482 [INFO] (http:routes) Request: POST /api/notes
+2024-03-08 17:48:20.532 [INFO] (http:routes) Request: POST /api/notes
+2024-03-08 17:48:21.360 [INFO] (http:routes) Request: POST /api/notes
+2024-03-09 04:38:05.515 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-09 11:54:01.772 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:54:01.776 [INFO] (src:index) Http server is ready
+2024-03-09 11:54:01.776 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:54:01.777 [INFO] (src:index) Http server is started
+2024-03-09 11:54:09.155 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:54:09.159 [INFO] (src:index) Http server is ready
+2024-03-09 11:54:09.159 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:54:09.159 [INFO] (src:index) Http server is started
+2024-03-09 11:54:38.496 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:54:38.500 [INFO] (src:index) Http server is ready
+2024-03-09 11:54:38.500 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:54:38.500 [INFO] (src:index) Http server is started
+2024-03-09 11:54:44.706 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:54:44.710 [INFO] (src:index) Http server is ready
+2024-03-09 11:54:44.710 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:54:44.711 [INFO] (src:index) Http server is started
+2024-03-09 11:54:48.865 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:54:48.869 [INFO] (src:index) Http server is ready
+2024-03-09 11:54:48.869 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:54:48.869 [INFO] (src:index) Http server is started
+2024-03-09 11:56:27.982 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:56:27.986 [INFO] (src:index) Http server is ready
+2024-03-09 11:56:27.986 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:56:27.986 [INFO] (src:index) Http server is started
+2024-03-09 11:56:31.384 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:56:31.389 [INFO] (src:index) Http server is ready
+2024-03-09 11:56:31.388 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:56:31.389 [INFO] (src:index) Http server is started
+2024-03-09 11:56:34.336 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:56:34.341 [INFO] (src:index) Http server is ready
+2024-03-09 11:56:34.340 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:56:34.341 [INFO] (src:index) Http server is started
+2024-03-09 11:56:49.533 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:56:49.538 [INFO] (src:index) Http server is ready
+2024-03-09 11:56:49.537 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:56:49.538 [INFO] (src:index) Http server is started
+2024-03-09 11:57:02.701 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:57:02.706 [INFO] (src:index) Http server is ready
+2024-03-09 11:57:02.705 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:57:02.706 [INFO] (src:index) Http server is started
+2024-03-09 11:58:09.232 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:58:09.236 [INFO] (src:index) Http server is ready
+2024-03-09 11:58:09.236 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:58:09.236 [INFO] (src:index) Http server is started
+2024-03-09 11:58:33.564 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 11:58:33.569 [INFO] (src:index) Http server is ready
+2024-03-09 11:58:33.568 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 11:58:33.569 [INFO] (src:index) Http server is started
+2024-03-09 12:00:09.693 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:00:09.708 [INFO] (src:index) Http server is ready
+2024-03-09 12:00:09.707 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:00:09.708 [INFO] (src:index) Http server is started
+2024-03-09 12:00:33.416 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:00:33.420 [INFO] (src:index) Http server is ready
+2024-03-09 12:00:33.420 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:00:33.421 [INFO] (src:index) Http server is started
+2024-03-09 12:00:47.369 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:00:47.373 [INFO] (src:index) Http server is ready
+2024-03-09 12:00:47.373 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:00:47.373 [INFO] (src:index) Http server is started
+2024-03-09 12:01:20.127 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:01:20.132 [INFO] (src:index) Http server is ready
+2024-03-09 12:01:20.132 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:01:20.132 [INFO] (src:index) Http server is started
+2024-03-09 12:02:57.399 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:02:57.405 [INFO] (src:index) Http server is ready
+2024-03-09 12:02:57.404 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:02:57.405 [INFO] (src:index) Http server is started
+2024-03-09 12:03:15.904 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:03:15.908 [INFO] (src:index) Http server is ready
+2024-03-09 12:03:15.908 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:03:15.908 [INFO] (src:index) Http server is started
+2024-03-09 12:03:23.277 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:03:23.282 [INFO] (src:index) Http server is ready
+2024-03-09 12:03:23.282 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:03:23.282 [INFO] (src:index) Http server is started
+2024-03-09 12:03:30.095 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:03:30.099 [INFO] (src:index) Http server is ready
+2024-03-09 12:03:30.099 [INFO] (src:index) Http server is started
+2024-03-09 12:03:30.099 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:03:39.596 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:03:39.600 [INFO] (src:index) Http server is ready
+2024-03-09 12:03:39.600 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:03:39.600 [INFO] (src:index) Http server is started
+2024-03-09 12:03:45.202 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:03:45.206 [INFO] (src:index) Http server is ready
+2024-03-09 12:03:45.206 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:03:45.206 [INFO] (src:index) Http server is started
+2024-03-09 12:03:51.283 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:03:51.288 [INFO] (src:index) Http server is ready
+2024-03-09 12:03:51.288 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:03:51.288 [INFO] (src:index) Http server is started
+2024-03-09 12:04:40.553 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:04:40.557 [INFO] (src:index) Http server is ready
+2024-03-09 12:04:40.557 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:04:40.558 [INFO] (src:index) Http server is started
+2024-03-09 12:04:53.109 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:04:53.114 [INFO] (src:index) Http server is ready
+2024-03-09 12:04:53.113 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:04:53.114 [INFO] (src:index) Http server is started
+2024-03-09 12:05:33.759 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:05:33.764 [INFO] (src:index) Http server is ready
+2024-03-09 12:05:33.764 [INFO] (src:index) Http server is started
+2024-03-09 12:05:33.763 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:08:19.464 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:08:19.469 [INFO] (src:index) Http server is ready
+2024-03-09 12:08:19.468 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:08:19.469 [INFO] (src:index) Http server is started
+2024-03-09 12:08:59.123 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:08:59.127 [INFO] (src:index) Http server is ready
+2024-03-09 12:08:59.127 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:08:59.127 [INFO] (src:index) Http server is started
+2024-03-09 12:09:02.780 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:09:02.784 [INFO] (src:index) Http server is ready
+2024-03-09 12:09:02.784 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:09:02.784 [INFO] (src:index) Http server is started
+2024-03-09 12:09:42.094 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:09:42.099 [INFO] (src:index) Http server is ready
+2024-03-09 12:09:42.098 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:09:42.099 [INFO] (src:index) Http server is started
+2024-03-09 12:09:50.719 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:09:50.723 [INFO] (src:index) Http server is ready
+2024-03-09 12:09:50.723 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:09:50.723 [INFO] (src:index) Http server is started
+2024-03-09 12:10:28.936 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:10:28.940 [INFO] (src:index) Http server is ready
+2024-03-09 12:10:28.940 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:10:28.940 [INFO] (src:index) Http server is started
+2024-03-09 12:11:07.261 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:11:07.266 [INFO] (src:index) Http server is ready
+2024-03-09 12:11:07.265 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:11:07.266 [INFO] (src:index) Http server is started
+2024-03-09 12:11:40.152 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:11:40.157 [INFO] (src:index) Http server is ready
+2024-03-09 12:11:40.156 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:11:40.157 [INFO] (src:index) Http server is started
+2024-03-09 12:12:29.582 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:12:29.586 [INFO] (src:index) Http server is ready
+2024-03-09 12:12:29.586 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:12:29.587 [INFO] (src:index) Http server is started
+2024-03-09 12:12:38.484 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:12:38.488 [INFO] (src:index) Http server is ready
+2024-03-09 12:12:38.488 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:12:38.488 [INFO] (src:index) Http server is started
+2024-03-09 12:13:26.065 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:13:26.070 [INFO] (src:index) Http server is ready
+2024-03-09 12:13:26.070 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:13:26.070 [INFO] (src:index) Http server is started
+2024-03-09 12:14:28.806 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:14:28.810 [INFO] (src:index) Http server is ready
+2024-03-09 12:14:28.810 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:14:28.811 [INFO] (src:index) Http server is started
+2024-03-09 12:14:31.407 [INFO] (src:http:index) Starting server on port 8001
+2024-03-09 12:14:31.411 [INFO] (src:index) Http server is ready
+2024-03-09 12:14:31.411 [INFO] (src:http:index) Server listening on port 8001
+2024-03-09 12:14:31.411 [INFO] (src:index) Http server is started
+2024-03-09 18:16:57.023 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-09 22:23:32.295 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-10 07:38:12.717 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-11 05:22:04.869 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-11 11:48:29.304 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-11 11:58:04.036 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 11:58:04.040 [INFO] (src:index) Http server is ready
+2024-03-11 11:58:04.040 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 11:58:04.041 [INFO] (src:index) Http server is started
+2024-03-11 12:01:31.540 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:01:31.544 [INFO] (src:index) Http server is ready
+2024-03-11 12:01:31.544 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:01:31.545 [INFO] (src:index) Http server is started
+2024-03-11 12:01:38.185 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:01:38.190 [INFO] (src:index) Http server is ready
+2024-03-11 12:01:38.190 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:01:38.190 [INFO] (src:index) Http server is started
+2024-03-11 12:01:40.498 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:01:40.502 [INFO] (src:index) Http server is ready
+2024-03-11 12:01:40.502 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:01:40.502 [INFO] (src:index) Http server is started
+2024-03-11 12:01:52.456 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:01:52.461 [INFO] (src:index) Http server is ready
+2024-03-11 12:01:52.460 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:01:52.461 [INFO] (src:index) Http server is started
+2024-03-11 12:02:33.348 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:02:33.352 [INFO] (src:index) Http server is ready
+2024-03-11 12:02:33.352 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:02:33.353 [INFO] (src:index) Http server is started
+2024-03-11 12:02:41.884 [INFO] (src:index) Http server is ready
+2024-03-11 12:02:41.880 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:02:41.884 [INFO] (src:index) Http server is started
+2024-03-11 12:02:41.884 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:02:43.836 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:02:43.840 [INFO] (src:index) Http server is ready
+2024-03-11 12:02:43.840 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:02:43.841 [INFO] (src:index) Http server is started
+2024-03-11 12:02:50.809 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:02:50.813 [INFO] (src:index) Http server is ready
+2024-03-11 12:02:50.813 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:02:50.813 [INFO] (src:index) Http server is started
+2024-03-11 12:03:23.144 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:03:23.149 [INFO] (src:index) Http server is ready
+2024-03-11 12:03:23.149 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:03:23.149 [INFO] (src:index) Http server is started
+2024-03-11 12:03:26.725 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:03:26.729 [INFO] (src:index) Http server is ready
+2024-03-11 12:03:26.729 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:03:26.730 [INFO] (src:index) Http server is started
+2024-03-11 12:03:31.416 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:03:31.420 [INFO] (src:index) Http server is ready
+2024-03-11 12:03:31.420 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:03:31.421 [INFO] (src:index) Http server is started
+2024-03-11 12:04:08.474 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:04:08.478 [INFO] (src:index) Http server is ready
+2024-03-11 12:04:08.478 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:04:08.478 [INFO] (src:index) Http server is started
+2024-03-11 12:08:23.173 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:08:23.186 [INFO] (src:index) Http server is ready
+2024-03-11 12:08:23.186 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:08:23.186 [INFO] (src:index) Http server is started
+2024-03-11 12:08:50.716 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:08:50.730 [INFO] (src:index) Http server is ready
+2024-03-11 12:08:50.730 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:08:50.731 [INFO] (src:index) Http server is started
+2024-03-11 12:11:22.074 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:11:22.078 [INFO] (src:index) Http server is ready
+2024-03-11 12:11:22.078 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:11:22.078 [INFO] (src:index) Http server is started
+2024-03-11 12:11:33.388 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:11:33.392 [INFO] (src:index) Http server is ready
+2024-03-11 12:11:33.392 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:11:33.392 [INFO] (src:index) Http server is started
+2024-03-11 12:11:55.012 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:11:55.016 [INFO] (src:index) Http server is ready
+2024-03-11 12:11:55.016 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:11:55.017 [INFO] (src:index) Http server is started
+2024-03-11 12:12:37.528 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:12:37.533 [INFO] (src:index) Http server is ready
+2024-03-11 12:12:37.532 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:12:37.533 [INFO] (src:index) Http server is started
+2024-03-11 12:12:45.258 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:12:45.262 [INFO] (src:index) Http server is ready
+2024-03-11 12:12:45.262 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:12:45.263 [INFO] (src:index) Http server is started
+2024-03-11 12:13:46.148 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:13:46.154 [INFO] (src:index) Http server is ready
+2024-03-11 12:13:46.154 [INFO] (src:index) Http server is started
+2024-03-11 12:13:46.153 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:13:46.731 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:13:46.735 [INFO] (src:index) Http server is ready
+2024-03-11 12:13:46.735 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:13:46.735 [INFO] (src:index) Http server is started
+2024-03-11 12:13:59.003 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:13:59.008 [INFO] (src:index) Http server is ready
+2024-03-11 12:13:59.008 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:13:59.008 [INFO] (src:index) Http server is started
+2024-03-11 12:14:28.169 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:14:28.173 [INFO] (src:index) Http server is ready
+2024-03-11 12:14:28.173 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:14:28.174 [INFO] (src:index) Http server is started
+2024-03-11 12:16:55.235 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:16:55.239 [INFO] (src:index) Http server is ready
+2024-03-11 12:16:55.239 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:16:55.239 [INFO] (src:index) Http server is started
+2024-03-11 12:22:25.763 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:22:25.793 [INFO] (src:index) Http server is ready
+2024-03-11 12:22:25.793 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:22:25.793 [INFO] (src:index) Http server is started
+2024-03-11 12:22:26.726 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:22:26.755 [INFO] (src:index) Http server is ready
+2024-03-11 12:22:26.754 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:22:26.755 [INFO] (src:index) Http server is started
+2024-03-11 12:22:49.051 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:22:49.226 [INFO] (src:index) Http server is ready
+2024-03-11 12:22:49.226 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:22:49.227 [INFO] (src:index) Http server is started
+2024-03-11 12:23:12.171 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:23:12.292 [INFO] (src:index) Http server is ready
+2024-03-11 12:23:12.292 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:23:12.292 [INFO] (src:index) Http server is started
+2024-03-11 12:23:24.420 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:23:24.446 [INFO] (src:index) Http server is ready
+2024-03-11 12:23:24.446 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:23:24.447 [INFO] (src:index) Http server is started
+2024-03-11 12:24:26.034 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:24:26.201 [INFO] (src:index) Http server is ready
+2024-03-11 12:24:26.201 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:24:26.201 [INFO] (src:index) Http server is started
+2024-03-11 12:24:28.392 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:24:28.567 [INFO] (src:index) Http server is ready
+2024-03-11 12:24:28.567 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:24:28.567 [INFO] (src:index) Http server is started
+2024-03-11 12:24:37.970 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:24:38.092 [INFO] (src:index) Http server is ready
+2024-03-11 12:24:38.092 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:24:38.092 [INFO] (src:index) Http server is started
+2024-03-11 12:24:41.644 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:24:41.678 [INFO] (src:index) Http server is ready
+2024-03-11 12:24:41.678 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:24:41.679 [INFO] (src:index) Http server is started
+2024-03-11 12:24:46.341 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:24:46.373 [INFO] (src:index) Http server is ready
+2024-03-11 12:24:46.373 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:24:46.373 [INFO] (src:index) Http server is started
+2024-03-11 12:24:47.359 [INFO] (src:index) Starting websocket server
+2024-03-11 12:26:00.295 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:26:00.326 [INFO] (src:index) Http server is ready
+2024-03-11 12:26:00.326 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:26:00.326 [INFO] (src:index) Http server is started
+2024-03-11 12:26:01.328 [INFO] (src:index) Starting websocket server
+2024-03-11 12:27:40.344 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:27:40.372 [INFO] (src:index) Http server is ready
+2024-03-11 12:27:40.372 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:27:40.372 [INFO] (src:index) Http server is started
+2024-03-11 12:27:40.373 [INFO] (src:index) Starting websocket server
+2024-03-11 12:27:49.034 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:27:49.065 [INFO] (src:index) Http server is ready
+2024-03-11 12:27:49.069 [INFO] (src:index) Http server is started
+2024-03-11 12:27:49.069 [INFO] (src:index) Starting websocket server
+2024-03-11 12:27:49.065 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:27:56.223 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:27:56.260 [INFO] (src:index) Http server is ready
+2024-03-11 12:27:56.260 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:27:56.260 [INFO] (src:index) Http server is started
+2024-03-11 12:27:56.260 [INFO] (src:index) Starting websocket server
+2024-03-11 12:28:11.423 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:28:11.590 [INFO] (src:index) Http server is ready
+2024-03-11 12:28:11.589 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:28:11.590 [INFO] (src:index) Http server is started
+2024-03-11 12:28:11.590 [INFO] (src:index) Starting websocket server
+2024-03-11 12:29:07.899 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:29:07.991 [INFO] (src:index) Starting http server
+2024-03-11 12:29:08.006 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:29:08.006 [INFO] (src:index) Http server is ready
+2024-03-11 12:29:08.006 [INFO] (src:index) Http server is started
+2024-03-11 12:29:08.007 [INFO] (src:index) Starting websocket server
+2024-03-11 12:29:11.467 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:29:11.485 [INFO] (src:index) Starting http server
+2024-03-11 12:29:11.504 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:29:11.505 [INFO] (src:index) Http server is ready
+2024-03-11 12:29:11.505 [INFO] (src:index) Http server is started
+2024-03-11 12:29:11.505 [INFO] (src:index) Starting websocket server
+2024-03-11 12:29:11.505 [INFO] (src:index) Websocket server is started
+2024-03-11 12:29:15.061 [INFO] (src:http:index) Starting server on port 8001
+2024-03-11 12:29:15.076 [INFO] (src:index) Starting http server
+2024-03-11 12:29:15.091 [INFO] (src:http:index) Server listening on port 8001
+2024-03-11 12:29:15.091 [INFO] (src:index) Http server is ready
+2024-03-11 12:29:15.092 [INFO] (src:index) Http server is started
+2024-03-11 12:29:15.092 [INFO] (src:index) Starting websocket server
+2024-03-11 12:29:15.092 [INFO] (src:index) Websocket server is started
+2024-03-11 12:46:43.247 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-11 12:47:45.397 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-11 13:43:25.686 [INFO] (http:routes) Request: POST /api/notes
+2024-03-11 13:43:34.663 [INFO] (http:routes) Request: POST /api/notes
+2024-03-11 13:43:37.009 [INFO] (http:routes) Request: POST /api/notes
+2024-03-11 13:43:37.606 [INFO] (http:routes) Request: POST /api/notes
+2024-03-11 13:43:38.216 [INFO] (http:routes) Request: POST /api/notes
+2024-03-11 13:57:45.335 [INFO] (http:routes) Request: POST /api/notes
+2024-03-11 14:03:52.459 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-11 14:03:57.812 [INFO] (http:routes) Request: POST /api/notes
+2024-03-11 14:03:59.515 [INFO] (http:routes) Request: POST /api/notes
+2024-03-11 14:04:03.973 [INFO] (http:routes) Request: POST /api/notes
+2024-03-11 14:04:08.150 [INFO] (http:routes) Request: POST /api/notes
+2024-03-12 01:56:46.122 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-15 22:33:42.141 [INFO] (src:http:index) Starting server on port 8001
+2024-03-15 22:33:42.321 [INFO] (src:index) Starting http server
+2024-03-15 22:33:42.336 [INFO] (src:http:index) Server listening on port 8001
+2024-03-15 22:33:42.336 [INFO] (src:index) Http server is ready
+2024-03-15 22:33:42.336 [INFO] (src:index) Http server is started
+2024-03-15 22:33:42.336 [INFO] (src:index) Starting websocket server
+2024-03-15 22:33:42.337 [INFO] (src:index) Websocket server is started
+2024-03-15 22:33:52.291 [INFO] (http:routes) Request: GET /api/auth/google?code=4%2F0AeaYSHDyw2ugzWBPOXY1NVIW2kE7X-yEuvtVa5SwpGviU-L1t2ECJcD77PpCw2Hc0oFSvQ
+2024-03-15 22:33:52.742 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-15 22:49:00.503 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-15 22:49:01.066 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-15 22:49:01.549 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-15 22:49:02.100 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-15 22:49:02.572 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-15 22:49:03.010 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-15 22:49:03.969 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-21 18:42:03.876 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:42:03.935 [INFO] (src:index) Starting http server
+2024-03-21 18:42:03.947 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:42:03.947 [INFO] (src:index) Http server is ready
+2024-03-21 18:42:03.947 [INFO] (src:index) Http server is started
+2024-03-21 18:42:03.947 [INFO] (src:index) Starting websocket server
+2024-03-21 18:42:03.948 [INFO] (src:index) Websocket server is started
+2024-03-21 18:42:19.294 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-21 18:51:02.920 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:51:03.080 [INFO] (src:index) Starting http server
+2024-03-21 18:51:03.093 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:51:03.093 [INFO] (src:index) Http server is ready
+2024-03-21 18:51:03.093 [INFO] (src:index) Http server is started
+2024-03-21 18:51:03.094 [INFO] (src:index) Starting websocket server
+2024-03-21 18:51:03.094 [INFO] (src:index) Websocket server is started
+2024-03-21 18:51:13.577 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:51:13.753 [INFO] (src:index) Starting http server
+2024-03-21 18:51:13.767 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:51:13.767 [INFO] (src:index) Http server is ready
+2024-03-21 18:51:13.767 [INFO] (src:index) Http server is started
+2024-03-21 18:51:13.768 [INFO] (src:index) Starting websocket server
+2024-03-21 18:51:13.768 [INFO] (src:index) Websocket server is started
+2024-03-21 18:51:31.126 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:51:31.266 [INFO] (src:index) Starting http server
+2024-03-21 18:51:31.278 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:51:31.278 [INFO] (src:index) Http server is ready
+2024-03-21 18:51:31.279 [INFO] (src:index) Http server is started
+2024-03-21 18:51:31.279 [INFO] (src:index) Starting websocket server
+2024-03-21 18:51:31.279 [INFO] (src:index) Websocket server is started
+2024-03-21 18:51:40.710 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:51:40.850 [INFO] (src:index) Starting http server
+2024-03-21 18:51:40.862 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:51:40.862 [INFO] (src:index) Http server is ready
+2024-03-21 18:51:40.862 [INFO] (src:index) Http server is started
+2024-03-21 18:51:40.863 [INFO] (src:index) Starting websocket server
+2024-03-21 18:51:40.863 [INFO] (src:index) Websocket server is started
+2024-03-21 18:51:52.285 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:51:52.426 [INFO] (src:index) Starting http server
+2024-03-21 18:51:52.439 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:51:52.439 [INFO] (src:index) Http server is ready
+2024-03-21 18:51:52.440 [INFO] (src:index) Http server is started
+2024-03-21 18:51:52.440 [INFO] (src:index) Starting websocket server
+2024-03-21 18:51:52.440 [INFO] (src:index) Websocket server is started
+2024-03-21 18:51:59.558 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:51:59.694 [INFO] (src:index) Starting http server
+2024-03-21 18:51:59.705 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:51:59.706 [INFO] (src:index) Http server is ready
+2024-03-21 18:51:59.706 [INFO] (src:index) Http server is started
+2024-03-21 18:51:59.706 [INFO] (src:index) Starting websocket server
+2024-03-21 18:51:59.706 [INFO] (src:index) Websocket server is started
+2024-03-21 18:52:28.064 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:52:28.290 [INFO] (src:index) Starting http server
+2024-03-21 18:52:28.306 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:52:28.306 [INFO] (src:index) Http server is ready
+2024-03-21 18:52:28.306 [INFO] (src:index) Http server is started
+2024-03-21 18:52:28.307 [INFO] (src:index) Starting websocket server
+2024-03-21 18:52:28.307 [INFO] (src:index) Websocket server is started
+2024-03-21 18:52:59.735 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:52:59.897 [INFO] (src:index) Starting http server
+2024-03-21 18:52:59.912 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:52:59.912 [INFO] (src:index) Http server is ready
+2024-03-21 18:52:59.913 [INFO] (src:index) Http server is started
+2024-03-21 18:52:59.913 [INFO] (src:index) Starting websocket server
+2024-03-21 18:52:59.913 [INFO] (src:index) Websocket server is started
+2024-03-21 18:54:01.306 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:54:01.467 [INFO] (src:index) Starting http server
+2024-03-21 18:54:01.481 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:54:01.481 [INFO] (src:index) Http server is ready
+2024-03-21 18:54:01.482 [INFO] (src:index) Http server is started
+2024-03-21 18:54:01.482 [INFO] (src:index) Starting websocket server
+2024-03-21 18:54:01.482 [INFO] (src:index) Websocket server is started
+2024-03-21 18:54:06.242 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:54:06.408 [INFO] (src:index) Starting http server
+2024-03-21 18:54:06.422 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:54:06.422 [INFO] (src:index) Http server is ready
+2024-03-21 18:54:06.422 [INFO] (src:index) Http server is started
+2024-03-21 18:54:06.423 [INFO] (src:index) Starting websocket server
+2024-03-21 18:54:06.423 [INFO] (src:index) Websocket server is started
+2024-03-21 18:54:23.628 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:54:23.795 [INFO] (src:index) Starting http server
+2024-03-21 18:54:23.809 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:54:23.810 [INFO] (src:index) Http server is ready
+2024-03-21 18:54:23.810 [INFO] (src:index) Http server is started
+2024-03-21 18:54:23.810 [INFO] (src:index) Starting websocket server
+2024-03-21 18:54:23.810 [INFO] (src:index) Websocket server is started
+2024-03-21 18:54:44.996 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:54:45.150 [INFO] (src:index) Starting http server
+2024-03-21 18:54:45.162 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:54:45.162 [INFO] (src:index) Http server is ready
+2024-03-21 18:54:45.162 [INFO] (src:index) Http server is started
+2024-03-21 18:54:45.162 [INFO] (src:index) Starting websocket server
+2024-03-21 18:54:45.163 [INFO] (src:index) Websocket server is started
+2024-03-21 18:54:52.209 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:54:52.364 [INFO] (src:index) Starting http server
+2024-03-21 18:54:52.376 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:54:52.376 [INFO] (src:index) Http server is ready
+2024-03-21 18:54:52.377 [INFO] (src:index) Http server is started
+2024-03-21 18:54:52.377 [INFO] (src:index) Starting websocket server
+2024-03-21 18:54:52.377 [INFO] (src:index) Websocket server is started
+2024-03-21 18:55:01.953 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:55:02.108 [INFO] (src:index) Starting http server
+2024-03-21 18:55:02.121 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:55:02.121 [INFO] (src:index) Http server is ready
+2024-03-21 18:55:02.121 [INFO] (src:index) Http server is started
+2024-03-21 18:55:02.121 [INFO] (src:index) Starting websocket server
+2024-03-21 18:55:02.122 [INFO] (src:index) Websocket server is started
+2024-03-21 18:55:16.538 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:55:16.692 [INFO] (src:index) Starting http server
+2024-03-21 18:55:16.703 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:55:16.704 [INFO] (src:index) Http server is ready
+2024-03-21 18:55:16.704 [INFO] (src:index) Http server is started
+2024-03-21 18:55:16.704 [INFO] (src:index) Starting websocket server
+2024-03-21 18:55:16.704 [INFO] (src:index) Websocket server is started
+2024-03-21 18:55:22.779 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:55:22.940 [INFO] (src:index) Starting http server
+2024-03-21 18:55:22.955 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:55:22.956 [INFO] (src:index) Http server is ready
+2024-03-21 18:55:22.956 [INFO] (src:index) Http server is started
+2024-03-21 18:55:22.956 [INFO] (src:index) Starting websocket server
+2024-03-21 18:55:22.956 [INFO] (src:index) Websocket server is started
+2024-03-21 18:55:27.667 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:55:27.840 [INFO] (src:index) Starting http server
+2024-03-21 18:55:27.855 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:55:27.855 [INFO] (src:index) Http server is ready
+2024-03-21 18:55:27.855 [INFO] (src:index) Http server is started
+2024-03-21 18:55:27.855 [INFO] (src:index) Starting websocket server
+2024-03-21 18:55:27.856 [INFO] (src:index) Websocket server is started
+2024-03-21 18:56:09.382 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:56:09.586 [INFO] (src:index) Starting http server
+2024-03-21 18:56:09.601 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:56:09.601 [INFO] (src:index) Http server is ready
+2024-03-21 18:56:09.601 [INFO] (src:index) Http server is started
+2024-03-21 18:56:09.601 [INFO] (src:index) Starting websocket server
+2024-03-21 18:56:09.602 [INFO] (src:index) Websocket server is started
+2024-03-21 18:56:30.802 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:56:30.944 [INFO] (src:index) Starting http server
+2024-03-21 18:56:30.956 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:56:30.957 [INFO] (src:index) Http server is ready
+2024-03-21 18:56:30.957 [INFO] (src:index) Http server is started
+2024-03-21 18:56:30.957 [INFO] (src:index) Starting websocket server
+2024-03-21 18:56:30.958 [INFO] (src:index) Websocket server is started
+2024-03-21 18:56:31.717 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:56:31.854 [INFO] (src:index) Starting http server
+2024-03-21 18:56:31.866 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:56:31.866 [INFO] (src:index) Http server is ready
+2024-03-21 18:56:31.867 [INFO] (src:index) Http server is started
+2024-03-21 18:56:31.867 [INFO] (src:index) Starting websocket server
+2024-03-21 18:56:31.867 [INFO] (src:index) Websocket server is started
+2024-03-21 18:56:54.130 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:56:54.264 [INFO] (src:index) Starting http server
+2024-03-21 18:56:54.276 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:56:54.276 [INFO] (src:index) Http server is ready
+2024-03-21 18:56:54.277 [INFO] (src:index) Http server is started
+2024-03-21 18:56:54.277 [INFO] (src:index) Starting websocket server
+2024-03-21 18:56:54.277 [INFO] (src:index) Websocket server is started
+2024-03-21 18:56:56.806 [INFO] (src:http:index) Starting server on port 8001
+2024-03-21 18:56:56.945 [INFO] (src:index) Starting http server
+2024-03-21 18:56:56.957 [INFO] (src:http:index) Server listening on port 8001
+2024-03-21 18:56:56.957 [INFO] (src:index) Http server is ready
+2024-03-21 18:56:56.957 [INFO] (src:index) Http server is started
+2024-03-21 18:56:56.957 [INFO] (src:index) Starting websocket server
+2024-03-21 18:56:56.958 [INFO] (src:index) Websocket server is started
+2024-03-21 19:01:27.772 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-21 19:03:17.306 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-21 19:03:26.413 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-22 07:09:00.226 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-22 11:32:04.016 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-23 07:18:36.951 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-23 11:54:23.461 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-23 12:00:07.736 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-23 12:00:22.119 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:29.788 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:33.101 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:35.939 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:37.885 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:38.985 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:40.850 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:43.768 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:45.092 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:50.929 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:52.487 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:56.728 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:00:58.935 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:01.836 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:04.297 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:06.544 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:14.174 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:15.661 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:17.021 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:18.148 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:23.221 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:25.394 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:28.338 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:29.124 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:31.027 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:33.505 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:35.106 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:43.199 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:45.515 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:46.561 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:48.030 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:54.101 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:01:58.328 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:09.562 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:10.269 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:11.037 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:12.632 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:30.091 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:33.722 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:38.643 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:40.484 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:41.187 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:43.684 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:53.808 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:55.876 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:58.477 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:02:59.360 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:02.255 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:05.374 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:17.904 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:21.930 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:29.548 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:34.505 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:38.470 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:39.130 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:40.057 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:41.613 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:47.465 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:48.052 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:03:59.472 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:01.971 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:07.463 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:14.033 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:17.462 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:19.042 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:20.603 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:25.463 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:28.112 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:32.207 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:36.226 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:38.314 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:41.092 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:42.788 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:44.379 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:04:45.301 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:07.965 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:15.799 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:18.530 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:19.736 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:25.877 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:28.488 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:31.823 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:39.106 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:42.410 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:44.191 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:47.537 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:05:54.757 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:00.250 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:04.159 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:07.004 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:08.971 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:12.978 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:34.169 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:35.024 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:38.424 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:49.451 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:06:53.663 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:00.347 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:12.240 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:13.580 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:14.399 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:17.393 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:29.298 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:35.255 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:36.907 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:42.657 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:46.713 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:50.623 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:52.081 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:55.547 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:07:59.810 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:09.944 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:10.546 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:11.692 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:16.347 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:16.891 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:18.598 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:27.192 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:29.588 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:30.368 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:33.091 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:42.293 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:43.449 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:46.734 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:48.395 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:49.683 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:50.696 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:54.844 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:57.321 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:08:58.854 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:01.434 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:10.974 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:12.047 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:16.148 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:17.252 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:18.743 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:20.255 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:20.808 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:21.316 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:31.667 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:38.171 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:40.278 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:45.818 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:49.304 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:09:52.472 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:11:30.103 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:11:33.404 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:11:37.337 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:11:40.400 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:11:47.850 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:11:48.430 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:11:49.433 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:11:55.222 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:03.548 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:09.343 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:18.493 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:28.802 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:33.174 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:33.730 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:34.357 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:37.677 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:40.544 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 12:12:46.942 [INFO] (http:routes) Request: POST /api/notes
+2024-03-23 18:12:54.826 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-23 18:12:54.844 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-24 20:55:03.952 [INFO] (src:http:index) Starting server on port 8001
+2024-03-24 20:55:03.966 [INFO] (src:index) Starting http server
+2024-03-24 20:55:03.968 [INFO] (src:http:index) Server listening on port 8001
+2024-03-24 20:55:03.968 [INFO] (src:index) Http server is ready
+2024-03-24 20:55:03.968 [INFO] (src:index) Http server is started
+2024-03-24 20:55:03.969 [INFO] (src:index) Starting websocket server
+2024-03-24 20:55:03.969 [INFO] (src:index) Websocket server is started
+2024-03-24 20:55:43.251 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-24 20:56:01.242 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:02.630 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:05.449 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:06.649 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:07.681 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:08.196 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:08.815 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:09.328 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:10.326 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:14.387 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:24.120 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:27.405 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:39.540 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:56:42.217 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:57:00.580 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:57:10.097 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:57:15.849 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:57:29.286 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:57:44.117 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:57:45.100 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:57:55.462 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:58:03.506 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:58:04.434 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:58:05.540 [INFO] (http:routes) Request: POST /api/notes
+2024-03-24 20:58:10.372 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:00.847 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-25 11:39:04.580 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:08.214 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:11.604 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:12.489 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:17.629 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:18.849 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:19.762 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:21.612 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:22.697 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:27.005 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:27.848 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:28.386 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:28.987 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:30.302 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:31.604 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:36.274 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:42.714 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:43.526 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:45.005 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:46.134 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:47.128 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:47.670 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:50.612 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:52.349 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:53.978 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:55.393 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:39:58.729 [INFO] (http:routes) Request: POST /api/notes
+2024-03-25 11:40:00.974 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-25 11:40:01.851 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-25 11:40:03.547 [INFO] (http:routes) Request: DELETE /api/notes?uuid=f3e19794-66be-4af6-ae8a-655ebe15e079
+2024-03-25 12:07:53.011 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-25 12:07:59.964 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156
+2024-03-25 13:21:40.770 [INFO] (http:routes) Request: GET /api/notes?user_uuid=d68d8c66-2f7d-4bce-a874-8cbf3752b156

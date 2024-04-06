@@ -3,21 +3,23 @@ import assert from "assert";
 
 /**
  * @typedef {Object} user
- * @property {string} username
- * @property {string} password
- * @property {string} [email]
+ * @property {string} name
+ * @property {string} email
+ * @property {string} service
  */
 
 const add = async (user) => {
-  assert(user.username, "username is required");
-  assert(user.password, "password is required");
+  assert(user.name, "name is required");
+  assert(user.service, "service is required");
   assert(user.email, "email is required");
 
   const queryText =
-    "INSERT INTO users (username, password, email) VALUES ($1, $2, $3)";
-  const values = [user.username, user.password, user.email];
+    "INSERT INTO users (name, service, email) VALUES ($1, $2, $3) RETURNING *";
+  const values = [user.name, user.service, user.email];
 
-  return await db.query(queryText, values);
+  const result = await db.query(queryText, values);
+
+  return result.rows[0];
 };
 
 export default add;

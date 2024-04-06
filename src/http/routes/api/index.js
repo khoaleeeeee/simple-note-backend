@@ -2,6 +2,7 @@ import { Router } from "express";
 import { createLogger } from "@/logger.js";
 import openai from "./openai";
 import notes from "./notes";
+import auth from "./auth";
 
 const logger = createLogger("http:routes:api");
 
@@ -10,6 +11,7 @@ const api = () => {
 
   route.use("/notes", notes());
   route.use("/openai", openai());
+  route.use("/auth", auth());
 
   // catch all errors
   route.use((err, _req, res, _next) => {

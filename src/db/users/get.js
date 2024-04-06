@@ -2,18 +2,16 @@ import db from "@/db";
 import assert from "assert";
 /**
  * @typedef {Object} user
- * @property {string} username
- * @property {string} password
- * @property {string} [email]
+ * @property {string} email
  */
 const get = async (user) => {
-  assert(user.username, "username is required");
-  assert(user.password, "password is required");
+  assert(user.email, "email is required");
 
-  const values = [user.username, user.password];
-  const queryText = "SELECT * FROM users WHERE username = $1 AND password = $2";
+  const values = [user.email];
+  const queryText = "SELECT * FROM users WHERE email = $1";
 
-  return await db.query(queryText, values);
+  const result = await db.query(queryText, values);
+  return result.rows[0];
 };
 
 export default get;

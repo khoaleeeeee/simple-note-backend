@@ -1,7 +1,4 @@
 import OpenAI from "openai";
-import dotenv from "dotenv";
-
-dotenv.config();
 
 const trimmer = (promptText, text) => {
   // Remove all new lines

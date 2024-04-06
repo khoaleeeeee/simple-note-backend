@@ -1,8 +1,9 @@
 import pg from "pg";
 
 const pool = new pg.Pool({
-  user: "postgres",
+  // connectionString: process.env.DATABASE_URL,
   password: "9781331",
+  user: "postgres",
   host: "localhost",
   database: "noteapp",
   port: 5432,
