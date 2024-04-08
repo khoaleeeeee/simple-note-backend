@@ -6,10 +6,10 @@ import db from "@/db";
  */
 
 const remove = async (req, res) => {
-  const { user_uuid, uuid } = req.query;
+  const { user_uuid, uuid } = req.body;
 
   if (!user_uuid) {
-    return res.status(400).send({ error: "user_uuid is required" });
+    return res.status(500).send({ error: "user_uuid is required" });
   }
 
   try {

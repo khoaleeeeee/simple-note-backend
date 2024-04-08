@@ -7,8 +7,8 @@ const notes = () => {
   const route = Router();
 
   route.get("/", get);
-  route.post("/", add);
-  route.delete("/", remove);
+  route.post("/add", add);
+  route.post("/remove", remove);
 
   return route;
 };
