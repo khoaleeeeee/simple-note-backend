@@ -1,9 +1,25 @@
 {
   "version": 2,
-  "rewrites": [
+  "routes": [
+    {
+      "source": "/api/notes/(.*)",
+      "destination": "/http/routes/api/notes/index.js"
+    },
+    {
+      "source": "/api/openai/(.*)",
+      "destination": "/http/routes/api/openai/index.js"
+    },
+    {
+      "source": "/api/users/(.*)",
+      "destination": "/http/routes/api/users/index.js"
+    },
+    {
+      "source": "/api",
+      "destination": "/http/routes/api/index.js"
+    },
     {
       "source": "/(.*)",
-      "destination": "/api"
+      "destination": "/http/index.js"
     }
   ]
 }
