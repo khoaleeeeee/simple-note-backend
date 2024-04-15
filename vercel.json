@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "routes": [
+  "rewrites": [
     {
       "source": "/api/notes/(.*)",
       "destination": "/http/routes/api/notes/index.js"
