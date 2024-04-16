@@ -13,24 +13,22 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 /**
  * @typedef {Object} user
- * @property {string} username
- * @property {string} password
- * @property {string} [email]
+ * @property {string} email
  */
 var get = /*#__PURE__*/function () {
   var _ref = _asyncToGenerator( /*#__PURE__*/_regeneratorRuntime().mark(function _callee(user) {
-    var values, queryText;
+    var values, queryText, result;
     return _regeneratorRuntime().wrap(function _callee$(_context) {
       while (1) switch (_context.prev = _context.next) {
         case 0:
-          (0, _assert["default"])(user.username, "username is required");
-          (0, _assert["default"])(user.password, "password is required");
-          values = [user.username, user.password];
-          queryText = "SELECT * FROM users WHERE username = $1 AND password = $2";
-          _context.next = 6;
+          (0, _assert["default"])(user.email, "email is required");
+          values = [user.email];
+          queryText = "SELECT * FROM users WHERE email = $1";
+          _context.next = 5;
           return _db["default"].query(queryText, values);
-        case 6:
-          return _context.abrupt("return", _context.sent);
+        case 5:
+          result = _context.sent;
+          return _context.abrupt("return", result.rows[0]);
         case 7:
         case "end":
           return _context.stop();

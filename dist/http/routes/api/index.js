@@ -8,12 +8,14 @@ var _express = require("express");
 var _logger = require("@/logger.js");
 var _openai = _interopRequireDefault(require("./openai"));
 var _notes = _interopRequireDefault(require("./notes"));
+var _auth = _interopRequireDefault(require("./auth"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 var logger = (0, _logger.createLogger)("http:routes:api");
 var api = function api() {
   var route = (0, _express.Router)();
   route.use("/notes", (0, _notes["default"])());
   route.use("/openai", (0, _openai["default"])());
+  route.use("/auth", (0, _auth["default"])());
 
   // catch all errors
   route.use(function (err, _req, res, _next) {

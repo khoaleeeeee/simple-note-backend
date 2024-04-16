@@ -25,11 +25,12 @@ var start = function start() {
     server = app.listen(PORT, function () {
       logger.info("Server listening on port ".concat(PORT));
       emitter.emit("ready");
-      resolve();
+      resolve(server);
     });
   });
 };
 var _default = exports["default"] = {
   start: start,
-  emitter: emitter
+  emitter: emitter,
+  server: server
 };

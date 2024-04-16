@@ -17,16 +17,16 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 
 var remove = /*#__PURE__*/function () {
   var _ref = _asyncToGenerator( /*#__PURE__*/_regeneratorRuntime().mark(function _callee(req, res) {
-    var _req$query, user_uuid, uuid, notes;
+    var _req$body, user_uuid, uuid, notes;
     return _regeneratorRuntime().wrap(function _callee$(_context) {
       while (1) switch (_context.prev = _context.next) {
         case 0:
-          _req$query = req.query, user_uuid = _req$query.user_uuid, uuid = _req$query.uuid;
+          _req$body = req.body, user_uuid = _req$body.user_uuid, uuid = _req$body.uuid;
           if (user_uuid) {
             _context.next = 3;
             break;
           }
-          return _context.abrupt("return", res.status(400).send({
+          return _context.abrupt("return", res.status(500).send({
             error: "user_uuid is required"
           }));
         case 3:

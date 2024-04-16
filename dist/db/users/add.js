@@ -13,27 +13,28 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 /**
  * @typedef {Object} user
- * @property {string} username
- * @property {string} password
- * @property {string} [email]
+ * @property {string} name
+ * @property {string} email
+ * @property {string} service
  */
 
 var add = /*#__PURE__*/function () {
   var _ref = _asyncToGenerator( /*#__PURE__*/_regeneratorRuntime().mark(function _callee(user) {
-    var queryText, values;
+    var queryText, values, result;
     return _regeneratorRuntime().wrap(function _callee$(_context) {
       while (1) switch (_context.prev = _context.next) {
         case 0:
-          (0, _assert["default"])(user.username, "username is required");
-          (0, _assert["default"])(user.password, "password is required");
+          (0, _assert["default"])(user.name, "name is required");
+          (0, _assert["default"])(user.service, "service is required");
           (0, _assert["default"])(user.email, "email is required");
-          queryText = "INSERT INTO users (username, password, email) VALUES ($1, $2, $3)";
-          values = [user.username, user.password, user.email];
+          queryText = "INSERT INTO users (name, service, email) VALUES ($1, $2, $3) RETURNING *";
+          values = [user.name, user.service, user.email];
           _context.next = 7;
           return _db["default"].query(queryText, values);
         case 7:
-          return _context.abrupt("return", _context.sent);
-        case 8:
+          result = _context.sent;
+          return _context.abrupt("return", result.rows[0]);
+        case 9:
         case "end":
           return _context.stop();
       }
