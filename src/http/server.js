@@ -8,7 +8,7 @@ let emitter = new EventEmitter();
 
 let server = null;
 let app = null;
-const PORT = 8001;
+const PORT = process.env.PORT || 8001
 
 const logger = createLogger("src:http:index");
 
