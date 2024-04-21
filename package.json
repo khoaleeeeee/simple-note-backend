@@ -9,8 +9,7 @@
     "build": "npm run clean && npm run build-babel",
     "build-babel": "node_modules/.bin/babel -d build src",
     "clean": "rm -rf build && mkdir build",
-    "start": "node ./build/index.js",
-    "heroku-postbuild": "echo Skip build on Heroku"
+    "start": "node ./build/index.js"
   },
   "author": "",
   "license": "ISC",
