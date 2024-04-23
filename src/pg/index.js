@@ -5,7 +5,7 @@ const config = process.env.DATABASE_URL ? {
     rejectUnauthorized: false
   }
 } : {
-  password: "9781331",
+  password: process.env.PG_PASSWORD,
   user: "postgres",
   host: "localhost",
   database: "noteapp",
@@ -22,4 +22,4 @@ const pool = new pg.Pool(config);
  */
 const query = async (query, params) => await pool.query(query, params);
 
-export { query as default };
+export { pool, query };
