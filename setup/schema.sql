@@ -5,7 +5,8 @@ CREATE TABLE
     uuid UUID PRIMARY KEY DEFAULT uuid_generate_v4 (),
     name VARCHAR(255) NOT NULL,
     service VARCHAR(255) NOT NULL,
-    email VARCHAR(255) NOT NULL UNIQUE
+    email VARCHAR(255) NOT NULL UNIQUE,
+    picture TEXT 
   );
 
 CREATE TABLE

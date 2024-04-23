@@ -19,13 +19,13 @@ const get = async (req, res) => {
     });
 
     const { id_token } = response.data;
-    const { email, name } = jwtDecode(id_token);
+    const { email, name, picture } = jwtDecode(id_token);
 
     const existed = await db.users.get({ email });
     let user;
 
     if (existed) user = existed;
-    else user = await db.users.add({ email, name, service: "google" });
+    else user = await db.users.add({ email, name, picture, service: "google" });
 
     res.cookie("user_uuid", user.uuid, {
       httpOnly: true,
