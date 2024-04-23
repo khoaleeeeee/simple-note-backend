@@ -23,14 +23,14 @@ const add = async (noteDelta) => {
   assert(noteDelta.deltas, "deltas are required");
 
   try {
-    const insertPromises = noteDelta.deltas.map((delta) => {
+    const insertPromises = noteDelta.deltas.map(async (delta) => {
       const queryText = `
         INSERT INTO note_deltas (note_uuid, delta)
         VALUES ($1, $2)
         RETURNING *;
       `;
       const values = [noteDelta.note_uuid, JSON.stringify(delta)];
-      return db.query(queryText, values);
+      return await db.query(queryText, values);
     });
 
     const results = await Promise.all(insertPromises);

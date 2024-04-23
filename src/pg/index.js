@@ -1,11 +1,18 @@
 import pg from "pg";
 
-const pool = new pg.Pool({
-  connectionString: process.env.DATABASE_URL,
-  ssl: {
+const config = process.env.DATABASE_URL ? {
+  connectionString: process.env.DATABASE_URL, ssl: {
     rejectUnauthorized: false
   }
-});
+} : {
+  password: "9781331",
+  user: "postgres",
+  host: "localhost",
+  database: "noteapp",
+  port: 5432,
+}
+
+const pool = new pg.Pool(config);
 
 /**
  * Send query to database.
