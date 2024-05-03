@@ -1,5 +1,6 @@
 import db from "@/db";
 import assert from "assert";
+import get from "./get"
 import { createLogger } from "@/logger";
 
 const logger = createLogger("db.notes.add");
@@ -45,6 +46,8 @@ const add = async (notes) => {
         note_uuid: result.rows[0].uuid,
         deltas: notes.deltas,
       });
+
+    await get({ user_uuid: notes.user_uuid });
 
     return result.rows[0];
   } catch (err) {

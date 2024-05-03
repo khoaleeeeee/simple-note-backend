@@ -2,7 +2,7 @@ import db from "@/db";
 import update from "./update";
 import assert from "assert";
 
-function applyDeltasToNote(note, deltas) {
+const applyDeltasToNote = (note, deltas) => {
   // Sort deltas by their index and by modification time in case of conflict at the same index
   deltas.sort((a, b) => {
     if (a.index === b.index) {
