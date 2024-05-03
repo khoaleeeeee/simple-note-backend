@@ -6,14 +6,14 @@ import db from "@/db";
  */
 
 const get = async (req, res) => {
-  const { uuid } = req.query;
+  const { uuid, email } = req.query;
 
-  if (!uuid) {
-    return res.status(400).send({ error: "user's uuid is required" });
+  if (!uuid && !email) {
+    return res.status(400).send({ error: "user's uuid or email is required" });
   }
 
   try {
-    const user = await db.users.get({ uuid });
+    const user = await db.users.get({ uuid, email });
 
     res.json(user);
   } catch (error) {
