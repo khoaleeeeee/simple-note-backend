@@ -6,31 +6,22 @@ import assert from "assert";
  * @property {string} note_uuid - The UUID of the note
  */
 
-const get = async (note) => {
+const remove = async (note) => {
   assert(note && note.note_uuid, "note_uuid is required");
 
   const queryText = `
-    SELECT * FROM note_deltas 
+    DELETE FROM note_deltas 
     WHERE note_uuid = $1 
-    ORDER BY modified_at ASC;
   `;
   const values = [note.note_uuid];
 
   try {
     const res = await db.query(queryText, values);
-    return res.rows.map(
-      (row) => {
-        return {
-          ...row.delta,
-          modified_at: row.modified_at.toISOString(),
-        };
-      }
-
-    );
+    return res.rows;
   } catch (error) {
-    console.error("Error fetching note deltas:", error);
+    console.error("Error deleting note deltas:", error);
     throw error;
   }
 };
 
-export default get;
+export default remove;
