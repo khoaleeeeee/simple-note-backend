@@ -12,6 +12,8 @@ const logger = createLogger("http:routes:api:users");
 const get = async (req, res) => {
   const sessionToken = req.cookies.sessionToken;
 
+  logger.info("GET /api/users", { sessionToken });
+
   if (!sessionToken) {
     return res.status(401).json({ error: 'No session token provided' });
   }
