@@ -16,6 +16,7 @@ const create = async () => {
     await db.query(queryText, values);
     // const secretKey = crypto.randomBytes(32).toString('hex');
 
+    logger.info('Creating secret key for admin user', process.env.ADMIN_UUID);
     await db.settings.add({
       setting: {
         name: 'secretKey',
