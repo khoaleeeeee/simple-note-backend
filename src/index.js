@@ -3,6 +3,7 @@ import "./alias";
 import httpServer from "./http/server";
 import websocketServer from "./websocket/server";
 import { createLogger } from "./logger";
+import secret from "./secret";
 
 const logger = createLogger("src:index");
 
@@ -23,4 +24,8 @@ const logger = createLogger("src:index");
   logger.info("Starting websocket server");
   await websocketServer.init(servers.http);
   logger.info("Websocket server is started");
+
+  logger.info("creating secret key");
+  await secret.create();
+  logger.info("Secret key created and added to database");
 })();

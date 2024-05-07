@@ -3,6 +3,7 @@ import { createLogger } from "@/logger.js";
 import { EventEmitter } from "events";
 import routes from "./routes";
 import cors from "cors";
+import cookieParser from 'cookie-parser'
 
 let emitter = new EventEmitter();
 
@@ -14,7 +15,13 @@ const logger = createLogger("src:http:index");
 
 logger.info(`Starting server on port ${PORT}`);
 app = express();
-app.use(cors());
+app.use(cors(
+  {
+    origin: 'http://localhost:8000',
+    credentials: true
+  }
+));
+app.use(cookieParser());
 
 app.use(express.json());
 app.use("/", routes());
