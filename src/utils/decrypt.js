@@ -1,12 +1,9 @@
 import crypto from 'crypto';
-import db from '@/db';
 
 const decrypt = async (encryptedText) => {
-  const settings = await db.settings.get({ uuid: process.env.ADMIN_UUID, name: 'secretKey' });
-  const secretKey = settings.find((s) => s.name === 'secretKey')?.value;
 
   // Convert the hex string back to bytes
-  const keyBytes = Buffer.from(secretKey, 'hex');  // Convert hex string to a byte buffer
+  const keyBytes = Buffer.from(process.env.SECRET_KEY, 'hex');  // Convert hex string to a byte buffer
 
   // Split the input into the IV and the encrypted data
   const textParts = encryptedText.split(':');

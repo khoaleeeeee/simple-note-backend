@@ -24,8 +24,4 @@ const logger = createLogger("src:index");
   logger.info("Starting websocket server");
   await websocketServer.init(servers.http);
   logger.info("Websocket server is started");
-
-  logger.info("creating secret key");
-  await secret.create();
-  logger.info("Secret key created and added to database");
 })();
