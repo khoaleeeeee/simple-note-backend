@@ -15,6 +15,7 @@ const get = async (req, res) => {
   logger.info("GET /api/users", { sessionToken });
 
   if (!sessionToken) {
+    logger.error("No session token provided");
     return res.status(401).json({ error: 'No session token provided' });
   }
 
@@ -24,10 +25,12 @@ const get = async (req, res) => {
     const { uuid, email } = data;
 
     if (!uuid && !email) {
+      logger.error("user's uuid or email is required");
       return res.status(400).send({ error: "user's uuid or email is required" });
     }
 
     const user = await db.users.get({ uuid, email });
+    logger.info("User found", { user });
 
     res.json(user);
   } catch (error) {
