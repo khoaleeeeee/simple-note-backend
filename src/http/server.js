@@ -17,7 +17,8 @@ logger.info(`Starting server on port ${PORT}`);
 app = express();
 app.use(cors(
   {
-    origin: 'http://localhost:8000',
+    origin: ['http://localhost:8000',
+      'https://mynotehub.netlify.app/'],
     credentials: true
   }
 ));
