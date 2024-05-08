@@ -33,10 +33,15 @@ const get = async (req, res) => {
 
     const token = utils.tokenize(user);
 
+    const secure = process.env.NODE_ENV === "production";
+    const sameSite = secure ? "None" : "Lax";
+
+    logger.info("Cookie configuration:", { secure, sameSite })
+
     res.cookie("sessionToken", token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
-      sameSite: 'None',
+      sameSite: process.env.NODE_ENV === "production" ? 'None' : 'Lax',
       maxAge: 1000 * 60 * 60, // 1 hour
     });
 
