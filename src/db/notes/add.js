@@ -47,8 +47,6 @@ const add = async (notes) => {
         deltas: notes.deltas,
       });
 
-    await get({ user_uuid: notes.user_uuid });
-
     return result.rows[0];
   } catch (err) {
     logger.error(err.message);
