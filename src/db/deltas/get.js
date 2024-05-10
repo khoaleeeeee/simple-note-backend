@@ -18,7 +18,15 @@ const get = async (note) => {
 
   try {
     const res = await db.query(queryText, values);
-    return res.rows;
+    return res.rows.map(
+      (row) => {
+        return {
+          ...row.delta,
+          modified_at: row.modified_at.toISOString(),
+        };
+      }
+
+    );
   } catch (error) {
     console.error("Error fetching note deltas:", error);
     throw error;

@@ -22,23 +22,32 @@ const add = async (noteDelta) => {
   assert(noteDelta.note_uuid, "note_uuid is required");
   assert(noteDelta.deltas, "deltas are required");
 
+  // Get a client from the pool
+  const client = await db.pool.connect();
+
   try {
-    const insertPromises = noteDelta.deltas.map((delta) => {
+    await client.query('BEGIN'); // Start a transaction
+
+    const results = [];
+    for (const delta of noteDelta.deltas) {
       const queryText = `
         INSERT INTO note_deltas (note_uuid, delta)
         VALUES ($1, $2)
         RETURNING *;
       `;
       const values = [noteDelta.note_uuid, JSON.stringify(delta)];
-      return db.query(queryText, values);
-    });
+      const result = await client.query(queryText, values);
+      results.push(result.rows[0]); // Collect results
+    }
 
-    const results = await Promise.all(insertPromises);
-    return results.map((result) => result.rows[0]);
+    await client.query('COMMIT'); // Commit the transaction
+    return results;
   } catch (err) {
+    await client.query('ROLLBACK'); // Rollback in case of error
     logger.error(err.message);
     throw err;
+  } finally {
+    client.release(); // Release the client back to the pool
   }
 };
-
 export default add;

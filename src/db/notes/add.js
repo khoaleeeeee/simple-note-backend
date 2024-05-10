@@ -1,5 +1,6 @@
 import db from "@/db";
 import assert from "assert";
+import get from "./get"
 import { createLogger } from "@/logger";
 
 const logger = createLogger("db.notes.add");
@@ -21,11 +22,11 @@ const add = async (notes) => {
   if (notes.uuid) {
     queryText = `
       UPDATE notes
-      SET user_uuid = $1, title = $2, content = $3, modified_at = NOW()
-      WHERE uuid = $4
+      SET user_uuid = $1, title = $2, modified_at = NOW()
+      WHERE uuid = $3
       RETURNING *;
     `;
-    values = [notes.user_uuid, notes.title, notes.content, notes.uuid];
+    values = [notes.user_uuid, notes.title, notes.uuid];
   } else {
     queryText = `
       INSERT INTO notes (user_uuid, title, content)

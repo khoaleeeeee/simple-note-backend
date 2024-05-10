@@ -1,6 +1,10 @@
 import axios from "axios";
 import db from "@/db";
 import { jwtDecode } from "jwt-decode";
+import utils from "@/utils";
+import { createLogger } from "@/logger";
+
+const logger = createLogger("http:routes:api:auth");
 
 const get = async (req, res) => {
   const { code } = req.query;
@@ -19,22 +23,31 @@ const get = async (req, res) => {
     });
 
     const { id_token } = response.data;
-    const { email, name } = jwtDecode(id_token);
+    const { email, name, picture } = jwtDecode(id_token);
 
     const existed = await db.users.get({ email });
     let user;
 
     if (existed) user = existed;
-    else user = await db.users.add({ email, name, service: "google" });
+    else user = await db.users.add({ email, name, picture, service: "google" });
 
-    res.cookie("user_uuid", user.uuid, {
+    const token = utils.tokenize(user);
+
+    const secure = process.env.NODE_ENV === "production";
+    const sameSite = secure ? "None" : "Lax";
+
+    logger.info("Cookie configuration:", { secure, sameSite })
+
+    res.cookie("sessionToken", token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
+      sameSite: process.env.NODE_ENV === "production" ? 'None' : 'Lax',
+      maxAge: 1000 * 60 * 60, // 1 hour
     });
 
     res.send(user);
   } catch (error) {
-    console.error("Failed to exchange the authorization code:", error);
+    logger.error("Failed to exchange the authorization code:", error);
     res.status(500).send("Internal Server Error");
   }
 };
