@@ -7,6 +7,7 @@ const config = process.env.DATABASE_URL ? {
 } : {
   password: process.env.PG_PASSWORD,
   user: "postgres",
+  password: '9781331',
   host: "localhost",
   database: "noteapp",
   port: 5432,

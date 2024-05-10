@@ -7,14 +7,14 @@ import { createLogger } from "@/logger";
  * @typedef {Object} newNotes
  * @property {string} uuid - Optional UUID for the note
  * @property {string} user_uuid
+ * @property {boolean} timeUpdate
  */
 
 const logger = createLogger("db:notes:update");
 
-const update = async (notes, newNotes) => {
+const update = async (notes, newNotes, timeUpdate = true) => {
   assert(notes.user_uuid !== null, "user_uuid is required");
   assert(notes.uuid !== null, "uuid is required");
-  logger.info("updating notes: ", notes.uuid);
 
   try {
     // Initialize the parts of the query that dynamically change based on input
@@ -35,8 +35,8 @@ const update = async (notes, newNotes) => {
       values.push(newNotes.content);
     }
 
-    // Always update the modified_at to the current time
-    setClause.push(`modified_at = NOW()`);
+    if (timeUpdate)
+      setClause.push(`modified_at = NOW()`);
 
     // Build the final query string
     const queryText = `

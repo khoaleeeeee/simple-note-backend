@@ -61,7 +61,7 @@ const getContent = async (note) => {
     content = concatDeltas(deltas);
   }
 
-  await update(note, { content });
+  await update(note, { content }, false);
 
   return content;
 };
