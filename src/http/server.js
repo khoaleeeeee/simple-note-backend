@@ -19,7 +19,7 @@ app.use(cors(
   {
     origin: ['http://localhost:8000',
       'https://mynotehub.netlify.app',
-      'http://notehub.khoadev.com/'
+      'https://notehub.khoadev.com'
     ],
     credentials: true
   }
