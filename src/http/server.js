@@ -18,7 +18,9 @@ app = express();
 app.use(cors(
   {
     origin: ['http://localhost:8000',
-      'https://mynotehub.netlify.app'],
+      'https://mynotehub.netlify.app',
+      'http://notehub.khoadev.com/'
+    ],
     credentials: true
   }
 ));
