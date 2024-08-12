@@ -1,6 +1,6 @@
 import db from "@/db";
 import assert from "assert";
-import get from "./get"
+import get from "./get";
 import { createLogger } from "@/logger";
 
 const logger = createLogger("db.notes.add");
@@ -37,8 +37,6 @@ const add = async (notes) => {
   }
 
   try {
-    // update title and modified_at only
-    // as content is stored as deltas
     const result = await db.query(queryText, values);
 
     if (notes.deltas)
@@ -46,8 +44,6 @@ const add = async (notes) => {
         note_uuid: result.rows[0].uuid,
         deltas: notes.deltas,
       });
-
-    await get({ user_uuid: notes.user_uuid });
 
     return result.rows[0];
   } catch (err) {
