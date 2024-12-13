@@ -5,7 +5,8 @@ CREATE TABLE
     uuid UUID PRIMARY KEY DEFAULT uuid_generate_v4 (),
     name VARCHAR(255) NOT NULL,
     service VARCHAR(255) NOT NULL,
-    email VARCHAR(255) NOT NULL UNIQUE
+    email VARCHAR(255) NOT NULL UNIQUE,
+    picture TEXT 
   );
 
 CREATE TABLE
@@ -39,3 +40,5 @@ CREATE TABLE
     WITH
       TIME ZONE DEFAULT CURRENT_TIMESTAMP
   );
+
+INSERT INTO users (uuid, service, name, email) VALUES ('9f8b7c79-3b25-4638-ba2c-5ad6b5a39407', 'admin', 'admin', 'admin@email.com');

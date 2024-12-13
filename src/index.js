@@ -3,6 +3,7 @@ import "./alias";
 import httpServer from "./http/server";
 import websocketServer from "./websocket/server";
 import { createLogger } from "./logger";
+import secret from "./secret";
 
 const logger = createLogger("src:index");
 

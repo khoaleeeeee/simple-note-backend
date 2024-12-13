@@ -1,4 +1,5 @@
 import OpenAI from "openai";
+import db from "@/db";
 
 const trimmer = (promptText, text) => {
   // Remove all new lines
@@ -17,12 +18,17 @@ const trimmer = (promptText, text) => {
 const autocomplete = async (req, res) => {
   try {
     // throw new Error("This is a test error");
-    const { topic, promptText } = req.body;
+    let { topic, promptText, user_uuid, apiKey } = req.body;
+
+    if (!apiKey || apiKey === "") {
+      const settings = await db.settings.get({ uuid: user_uuid });
+      apiKey = settings.find((s) => s.name === "openAIKey")?.value;
+    }
 
     const prompt = `Given the topic '${topic}', complete the text '${promptText}' in a meaningful way. Return only the additional part. Don't include quotation marks`;
 
     const openai = new OpenAI({
-      apiKey: process.env.OPENAI_API_KEY,
+      apiKey
     });
 
     const response = await openai.chat.completions.create({

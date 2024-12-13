@@ -1,25 +1,5 @@
 import db from "@/db";
 import assert from "assert";
-
-const concatDeltas = async (uuid) => {
-  const deltas = await db.deltas.get({ note_uuid: uuid });
-
-  let content = "";
-
-  deltas.forEach(({ delta }) => {
-    if (delta.operation === "insert") {
-      content =
-        content.slice(0, delta.index) + delta.text + content.slice(delta.index);
-    } else if (delta.operation === "delete") {
-      content =
-        content.slice(0, delta.index) +
-        content.slice(delta.index + delta.length);
-    }
-  });
-
-  return content;
-};
-
 /**
  * @typedef {Object} User
  * @property {string} user_uuid
@@ -36,12 +16,13 @@ const get = async (user) => {
 
   if (notes.length === 0) return [];
 
+
   const notesWithContent = await Promise.all(
     notes.map(async (note) => {
-      const content = await concatDeltas(note.uuid);
+      const deltas = await db.deltas.get({ note_uuid: note.uuid });
       return {
         ...note,
-        content,
+        deltas
       };
     })
   );

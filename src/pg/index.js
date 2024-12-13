@@ -1,11 +1,19 @@
 import pg from "pg";
 
-const pool = new pg.Pool({
-  connectionString: process.env.DATABASE_URL,
-  ssl: {
+const config = process.env.DATABASE_URL ? {
+  connectionString: process.env.DATABASE_URL, ssl: {
     rejectUnauthorized: false
   }
-});
+} : {
+  password: process.env.PG_PASSWORD,
+  user: "postgres",
+  password: '9781331',
+  host: "localhost",
+  database: "noteapp",
+  port: 5432,
+}
+
+const pool = new pg.Pool(config);
 
 /**
  * Send query to database.
@@ -15,4 +23,4 @@ const pool = new pg.Pool({
  */
 const query = async (query, params) => await pool.query(query, params);
 
-export { query as default };
+export { pool, query };
